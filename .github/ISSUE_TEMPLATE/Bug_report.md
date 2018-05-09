@@ -15,6 +15,7 @@ about: Create a report to help us improve
 
 ## ステータス
 - [x] 未解決
+- [ ] 対応中
 - [ ] 解決済
 - [ ] 非対応
 

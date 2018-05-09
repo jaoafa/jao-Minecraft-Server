@@ -29,6 +29,8 @@ GitHubのアカウントが必須です。
 
 ## Description (概要)
 
+## Cause (原因)
+
 ## Steps to Reproduce (再現の手順)
 
 ## ScreenShot etc (スクリーンショットなど)

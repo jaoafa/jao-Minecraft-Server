@@ -7,9 +7,9 @@ jao Minecraft Server Issue Tracker
 
 ## Issueはどうやって出せばよい？
 上部ナビゲーションから「[Issues](https://github.com/jaoafa/jao-Minecraft-Server/issues)」をクリックし、表示されたページの右上、「New issue」をクリックしましょう。  
-そうするとなにやら投稿ページ的なものが出てくるので、「Title」に質問・疑問などを簡潔にまとめた内容(例: サーバの一部がDOOMしてる)を入力します。  
-「Leave a comment」には詳しい情報や内容(例: 座標0 65 1000の否市内でrobootが爆発し色々やばいことになってます！修復をお願いします！)を書きましょう。  
-なお、Markdownが使用できます。  
+そうするとなにやら投稿ページ的なものが出てくるので、「Title」に不具合内容・質問・疑問などを簡潔にまとめた内容(例: サーバの一部がDOOMしてる)を入力します。  
+「Leave a comment」には以下のテンプレートを用いて入力しましょう。
+なお、Markdownが使用できます。  
 
 ## Issueをするためには何が必要？
 GitHubのアカウントが必須です。  

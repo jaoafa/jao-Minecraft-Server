@@ -1,4 +1,5 @@
-# jao-Minecraft-Server
+# [![jao Minecraft Server](https://raw.githubusercontent.com/jaoafa/jao-Minecraft-Server/master/logo/new_logo-421x97.png)](https://jaoafa.com)
+
 jao Minecraft Server Issue Tracker  
 
 ## Issueってなんじゃらほい？

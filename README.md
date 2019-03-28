@@ -1,5 +1,10 @@
 # [![jao Minecraft Server](https://raw.githubusercontent.com/jaoafa/jao-Minecraft-Server/master/logo/new_logo-421x97.png)](https://jaoafa.com)
 
+[![Website](https://img.shields.io/website/https/jaoafa.com.svg)](https://jaoafa.com)
+![GitHub issues](https://img.shields.io/github/issues/jaoafa/jao-Minecraft-Server.svg)
+![Discord](https://img.shields.io/discord/189377932429492224.svg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jaoafa.svg?style=social)](https://twitter.com/jaoafa)
+
 jao Minecraft Server Issue Tracker  
 
 ## Issueってなんじゃらほい？

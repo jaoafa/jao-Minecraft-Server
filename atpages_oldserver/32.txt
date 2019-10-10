@@ -1,0 +1,136 @@
+// // 2016/02/26「 、」を「，」に置き換え - mine_book000 //
+&lt;h1&gt;&lt;img alt=&quot;平茸市&quot; src=&quot;http://minesever.kassi-hp.info/community/hiratakecity/img/logo.png&quot; style=&quot;width:174px;height:50px;&quot; /&gt;&lt;/h1&gt;
+&lt;p&gt;平茸市は，かっしー鯖の東端に位置する，&lt;s&gt;金沢市みたいな&lt;/s&gt;　&lt;strong&gt;「&lt;span style=&quot;color:#008000;&quot;&gt;中途半端な都会的都市&lt;/span&gt;」&lt;/strong&gt;　です。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;平茸市公式Webサイトは&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;＿人人人＿&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;＞&lt;a href=&quot;http://minesever.kassi-hp.info/community/hiratakecity/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color:#00FF00;&quot;&gt;こちら&lt;/span&gt;&lt;/a&gt;＜&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;￣Y^Y^Y￣&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（http://minesever.kassi-hp.info/community/hiratakecity/）&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;詳しい平茸市の概要，歴史，観光案内，及び市政情報はこちらのページにあります。&lt;/p&gt;
+&lt;p&gt;こちらのWikiのページ内を探してもみつからない，ちゃんと書けクソ野郎，などといった苦情はご遠慮ください。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;平茸市のルールは，基本的には&lt;a href=&quot;http://www60.atwiki.jp/kassimine/pages/15.html#id_d1701c53&quot;&gt;全体ルール&lt;/a&gt;と同じです。&lt;/p&gt;
+&lt;p&gt;必ず全体ルールを理解した上で観光や施設の利用をお楽しみください。&lt;/p&gt;
+&lt;p&gt;また，TNTの設置及び使用は市の許可無しでは不可です。&lt;/p&gt;
+&lt;p&gt;あと，過去の事件により「ホッパーカート」の市内での使用を禁止しています。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;2015年10月4日21時15分より，市内の激重化改善の為，ImageOnmapによる画像の貼り付けを一切禁止とさせていただきます。&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;市内での分譲地及びテナント募集と書かれた建物内のスペースの利用につきましては，全体ルールの他にいくつかの決まりがありますので&lt;/p&gt;
+&lt;p&gt;ご利用の際は&lt;a href=&quot;#crafting&quot;&gt;分譲地及び建物内の&lt;/a&gt;&lt;a href=&quot;#crafting&quot;&gt;テナント募集と書かれた&lt;/a&gt;&lt;a href=&quot;#crafting&quot;&gt;スペース利用について&lt;/a&gt;の項を必ずお読みいただきますようお願い致します。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;地域&lt;/h2&gt;
+&lt;p&gt;平茸市はいくつかの町にわかれています。市内の移動は，各町に設置されている「&lt;strong&gt;&lt;span style=&quot;color:#008000;&quot;&gt;CITY jNS&lt;/span&gt;&lt;/strong&gt;」のご利用が便利です。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;新&lt;/strong&gt;平茸町&lt;/span&gt;（しんひらたけちょう）
+&lt;ul&gt;&lt;li&gt;郵便番号は04-01**です。&lt;/li&gt;
+&lt;li&gt;新平茸駅，中央バスターミナルがあります。&lt;/li&gt;
+&lt;li&gt;「&lt;strong&gt;&lt;span style=&quot;color:#008000;&quot;&gt;WORLD
+jNS&lt;/span&gt;&lt;/strong&gt;」と「&lt;strong&gt;&lt;span style=&quot;color:#008000;&quot;&gt;CITY
+jNS&lt;/span&gt;&lt;/strong&gt;」の両方が設置されています。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;謝&lt;/strong&gt;於町&lt;/span&gt;（じゃおまち）
+&lt;ul&gt;&lt;li&gt;郵便番号は04-02**です。&lt;/li&gt;
+&lt;li&gt;平茸市役所，PvP会場，&lt;strong&gt;&lt;span style=&quot;color:#008000;&quot;&gt;GRN本部&lt;/span&gt;&lt;/strong&gt;などがあります。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;靄&lt;/strong&gt;史町&lt;/span&gt;（もやしまち）
+&lt;ul&gt;&lt;li&gt;郵便番号は04-03**です。&lt;/li&gt;
+&lt;li&gt;靄史駅，カフェ「&lt;em&gt;ぼっちのそら&lt;/em&gt;」などがあります。&lt;/li&gt;
+&lt;li&gt;白浜大橋によりオムレツ市と接続されています。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;日&lt;/strong&gt;の出町&lt;/span&gt;（ひのでまち）
+&lt;ul&gt;&lt;li&gt;郵便番号は04-04**です。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;文&lt;/strong&gt;田町&lt;/span&gt;（ぶんでんまち）
+&lt;ul&gt;&lt;li&gt;郵便番号は04-05**です。&lt;/li&gt;
+&lt;li&gt;三福市の一部でしたが，平茸市となりました。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;&lt;strong&gt;塗&lt;/strong&gt;町&lt;/span&gt;（ぬまち）
+&lt;ul&gt;&lt;li&gt;郵便番号は04-06**です。&lt;/li&gt;
+&lt;li&gt;西平茸駅などがあります。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;施設案内&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;span style=&quot;color:#008000;&quot;&gt;jNS&lt;/span&gt;&lt;/strong&gt;（jao Navigation
+Station）
+&lt;ul&gt;&lt;li&gt;鯖内主要地及び各町へ瞬時に移動できる「次世代型総合案内所」です。&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color:#008000;&quot;&gt;WORLD jNS&lt;/span&gt;と&lt;span style=&quot;color:#008000;&quot;&gt;CITY
+jNS&lt;/span&gt;があり，前者は鯖内全体の主要地へ，後者は平茸市内の各市町（旧平茸を除く）に瞬時に移動することができます。&lt;/li&gt;
+&lt;li&gt;大きな「 j 」の文字が目印です。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;平茸市イベントビル&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;PvP会場です。&lt;/li&gt;
+&lt;li&gt;アイテムの持ち込み可・不可を選ぶことが出来ます。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;テナント募集のビル&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;市内のあちこちに「テナント募集」と書かれた看板が取り付けられたビルがあります。&lt;/li&gt;
+&lt;li&gt;1フロアを借りて企業の支店を作ったり倉庫にでもしたり事務所的なものにしてみたり，様々な使い方ができます。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;crafting&quot;&gt;分譲地及び建物内のテナント募集と書かれたスペース利用について&lt;/h2&gt;
+&lt;p&gt;
+平茸市内には自由に住宅や店舗を建築できる分譲地や，企業の支店を作ったり装置を置いたりなど気軽に利用できる建物内のテナント募集と書かれたスペースがあります。&lt;/p&gt;
+&lt;p&gt;必ず以下の説明を読んだ上でご利用ください。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;分譲地及び建物内のテナント募集と書かれたスペースの共通ルール&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;全体ルールは必ず守ってください。
+&lt;ul&gt;&lt;li&gt;
+分譲地及び建物内のテナント募集と書かれたスペースを利用した際には必ず&lt;strong&gt;わかりやすい位置に&lt;/strong&gt;「看板に自分の名前を記入したもの」を設置してください。記入のない場合は全体ルールに基づき「平茸市の所有物」となります。&lt;/li&gt;
+&lt;li&gt;分譲地，建物内のテナント募集と書かれたスペース以外での建築はご遠慮ください。発見次第，全体ルールに基づき「平茸市が撤去」させていただきます。&lt;/li&gt;
+&lt;li&gt;サーバーに負荷を与えたり，市内での動作が重くなるような回路は作らないでください。万が一作った場合はすぐに撤去してください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;利用する際は，必ず平茸市の管理者に利用する旨を伝えてからにしてください。&lt;/li&gt;
+&lt;li&gt;壁が全面同じ色みたいな，あまりにも単純すぎるものはなるべくやめてください。&lt;/li&gt;
+&lt;li&gt;ルールが追加された場合，それにも従うようにしてください。&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;分譲地でのルール&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;平茸市は景観を最も重視している街です。そのため，市の拡張や開発の為に移動を行わせて頂く場合があります。
+&lt;ul&gt;&lt;li&gt;
+全体ルール「他人の建物に許可無く触らない」に基づき，通常は建物の製作者以外は&lt;strong&gt;製作者の許可なしに&lt;/strong&gt;移動が出来ない状態です。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;そこで「平茸市に建物を自由に移動してもよいという許可」をしていただきます。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+この許可は「市内の分譲地を利用した時点で&lt;strong&gt;自動的に適用&lt;/strong&gt;」されます。移動されたくない場合は分譲地を利用しないでください。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「分譲地を利用したい」と申し出た時点で許可をしたことになります&lt;/strong&gt;のでご注意ください。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+景観を重視している為，分譲地に作るものは住宅，店舗，ビル（中身は自由）のみにしてください。回路は，建てた建造物の中以外では作らないでください。違反した場合，発見次第撤去いたします。&lt;/li&gt;
+&lt;li&gt;
+分譲地に「店舗用分譲地」や「ビル用分譲地」などと書かれている場合には，記載されている種類の建造物以外のものは作ることが出来ません。違反したばあい，発見次第撤去いたします。&lt;/li&gt;
+&lt;li&gt;
+一応住宅とかを想定して場所を決めたりしているので，あまり背の高いビルはつくらないでください。大きなビルを作りたい場合は，別に場所を用意していますので平茸市にお問い合わせください。&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;建物内のテナント募集と書かれたスペースでのルール&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;建物内のテナント募集と書かれたスペースでは，基本的には何を作っていただいても構いません。&lt;/li&gt;
+&lt;li&gt;天井や床，壁やエレベーター及び梯子などの破壊はやめてください。&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h1&gt;&lt;span style=&quot;font-family:&#039;courier new&#039;, courier, monospace;&quot;&gt;&lt;strong&gt;NEWS
+KASSI SERVER 2015/08/&lt;span style=&quot;line-height:1.6em;&quot;&gt;02&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;よるの23時をすぎたころ&lt;span style=&quot;line-height:1.6em;&quot;&gt;...&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://puu.sh/jmxwp/ee72eef12f.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://puu.sh/jmxAF/5734568c5a.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;と市長が発言。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;これに対し市民の声は...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://puu.sh/jmyUr/4b6965059f.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://puu.sh/jmyWe/8944634c06.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;という意見が。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;さてどうなるのか？注目していきたいところである。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;&lt;hr /&gt;&lt;p&gt;© 2014-2015 Hiratake&lt;/p&gt;

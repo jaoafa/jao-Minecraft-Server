@@ -1,0 +1,27 @@
+* 3分34秒でわかるTorimaInput導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- 前提ModであるLiteloaderの導入解説は[[modとか/Liteloader導入]]にあります
+- 1.8以降対応なので1.7.10以前の場合は[[NihongoMOD&gt;modとか/NihongoMOD導入]]や[[Intelinput&gt;modとか/IntelliInput導入]]などの1.7.10以前対応のmodを導入してください
+- 解説は1.8 Liteloader導入環境を前提としています
+** 1
+#image(http://puu.sh/d9Vju/4d3bc74a45.png,width=630,height=406)
+- 左下のEdit Profileを選択
+#image(http://puu.sh/d9VCO/e49c1f3932.png)
+- 出てきたなにやらどこかで見たことある画面の右下にあるOpen Game Dirを選択
+** 2
+#image(http://puu.sh/d9VTU/6912eaf23b.jpg)
+- エクスプローラーが立ち上がるのでmodsフォルダを開く
+- そうすると1.8というフォルダがあるので1.8フォルダを開く
+- 空になっていることを確認したら
+#image(http://puu.sh/d9VGE/558ad3c614.png)
+- [[http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=5440]]から画像にあるDownload -&gt; TorimaInput[1.8]をクリックしてDLします
+** 3
+#image(http://puu.sh/d9VWq/c74d8bd287.png)
+- 2でDLした「mod_TorimaInput1.8#4.litemod」というファイルををそのままmodsフォルダの1.8フォルダの中に入れます
+** 4
+#image(http://puu.sh/d9VPZ/32124e05d9.jpg)
+- Minecraft(1.8Liteloader)を起動してマルチサーバーなどに入りTキーなどを押してチャットを出し、日本語入力ができれば成功です

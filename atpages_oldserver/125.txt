@@ -1,0 +1,40 @@
+* CoreProtect
+** コマンド説明
+ /co near
+&gt;範囲5ブロックの編集履歴を表示する
+&gt;HawkEyeの/he hereに近い意味のコマンド
+
+ /co l 1,2...
+&gt;編集履歴を詳しく見る
+&gt;1.2...はページ数
+
+ /co rollback u:プレイヤー r:範囲 t:時間
+&gt;ロールバックをする
+&gt;指定できる引数は以下の通り
+&gt;&gt;r:#global 鯖全体(kassi-hp-tk,_nether,_the_endなど鯖に保存されているワールドすべて)
+&gt;&gt;r:#kassi-hp-tk kassi-hp-tkワールドのみ
+&gt;&gt;u:#TNT TNTの爆発をなかったことにする
+&gt;&gt;a:block ブロックの配置、破壊
+&gt;&gt;a:+block ブロックの配置
+&gt;&gt;a:-block ブロックの破壊
+&gt;&gt;a:chat チャット
+&gt;&gt;a:command コマンド
+&gt;&gt;a:session ログイン、ログアウト
+&gt;&gt;a:+session ログイン
+&gt;&gt;a:-session ログアウト
+&gt;&gt;#preview プレビュー
+&gt;使い方
+&gt;&gt;/co rollback u:Notch t:1h
+&gt;&gt;/co rollback u:Notch t:1h #preview
+&gt;&gt;/co rollback t:15m r:30
+
+ /co restore
+&gt;rollback停止
+ /co i
+&gt;このコマンドを実行したら右左でブロックを選択してそのブロックの履歴を表示する
+ /co undo
+&gt;/he undoと同等。ロールバックを戻す
+
+** 参考
+&gt;http://forum.minecraftuser.jp/viewtopic.php?f=7&amp;t=16849
+&gt;http://seesaawiki.jp/nag_server_data/lite/d/%b4%c9%cd%fd%cd%d1%a5%b3%a5%de%a5%f3%a5%c9

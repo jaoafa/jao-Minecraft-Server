@@ -1,0 +1,40 @@
+* 3分34秒でわかるInputFix導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- この解説に載っているForgeの導入解説は[[modとか/Forge導入]]にあります
+- 解説は1.7.10 Forge導入環境を前提にしています 1.8 Forge導入環境でも同様です
+** 1
+#image(http://puu.sh/cir9i/f939c173f2.png,width=630,height=406)
+- 左下のEdit Profileを選択
+#image(http://puu.sh/ciraX/43023142f5.png)
+- 出てきたなにやらどこかで見たことある画面の右下にあるOpen Game Dirを選択
+** 2
+#image(http://puu.sh/cireP/84f308270f.png)
+- エクスプローラーが立ち上がるのでmodsフォルダを開く
+#image(http://puu.sh/gdfm3/f2e5ea0cd1.png)
+- [[InputFix&gt;http://minecraft.curseforge.com/mc-mods/71620-inputfix]]から
+- バージョンにあったもの(今回はInputFix-1.7.10-v5.jar)をDL
+** 3
+#image(http://puu.sh/gdfz7/4d402c7df8.jpg)
+- 2でDLしたjarファイルをそのままmodsフォルダに入れます
+-- OptiFineのjarがありますが気にしなくて結構です
+** 4
+#image(http://puu.sh/gdfD7/bc89ce990a.png)
+- Minecraft(1.7.10 Forge)を起動して無事起動しメニューのModsにInputfixがありTキー(MacOS,LinuxではF12キー)を押して入力できれば成功です
+- お疲れ様でした
+** 5
+- お使いのPCのOSがOS X(Mac)の場合はもう一手間必要です
+まず、「システム環境設定」を開きます
+#image(http://i.imgur.com/aULJlPL.png)
+そしたら、「キーボード」の設定を開きます
+#image(http://i.imgur.com/xUQilR7.png)
+そして、「F1,F2等のすべてのキーを標準のファンクションキーとして使用にチェックします。
+#image(http://i.imgur.com/yyJePqr.png)
+次に、上にある「ショートカット」をクリックして、「Misson Control」をクリックします
+#image(http://i.imgur.com/DVibac4.png)
+そのあと「Dashbordを表示」のチェックを外します
+#image(http://i.imgur.com/90yxmYu.png)
+以上で使えるはずです。お疲れ様でした。

@@ -1,0 +1,30 @@
+* 3分34秒でわかるCocoaInput導入方法
+※当社比べ
+※Mac専用MOD
+- 他のOS(Windows,Ubuntu)などでは使えません。
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- この解説に載っているForgeの導入解説は[[modとか/Forge導入]]にあります
+- 解説は1.8 Forge導入環境を前提にしています 1.7.10 Forge導入環境でも同様です
+** 1
+#image(http://i.imgur.com/ijsVBL4.png)
+- 左下のEdit Profileを選択
+#image(http://puu.sh/iNRVP/759e990921.png)
+- 出てきたなにやらどこかで見たことある画面の右下にあるOpen Game Dirを選択
+** 2
+#image(http://puu.sh/iNRpp/4813606fe2.png)
+- エクスプローラーが立ち上がるのでmodsフォルダを開く
+#image(http://i.imgur.com/fzVLGyN.png)
+- [[CocoaInput&gt;http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=24394]]から
+- バージョンにあったもの(今回はCocoaInput-1.8-2.1.6)をDL
+** 3
+#image(http://i.imgur.com/nsa6GJU.png)
+- 2でDLしたjarファイルをそのままmodsフォルダに入れます
+** 4
+#image(http://i.imgur.com/ZvC3Dz8.png)
+- Minecraft(1.8.x Forge)を起動して無事起動しメニューのModsにCocoaInputがありTキーを押して入力できれば成功です
+- お疲れ様でした
+//** 5
+//- このMODは、Macのみでしか使えないので、他のOSでは使えません。

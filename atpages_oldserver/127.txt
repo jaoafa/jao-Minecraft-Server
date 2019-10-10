@@ -1,0 +1,76 @@
+// 
+// 2016/02/26「 、」を「，」に置き換え - mine_book000
+// 
+* Pin_Code_Authentication(PCA)
+[[アップデート内容などのお知らせはこちらから&gt;http://toma.webcrow.jp/blog/archives/category/pca]]
+** Todo
+とくになし
+
+** PCAとは？
+PCAとはkassi-hp.tk Minecraft Serverでの新規対応を迅速に行うことを目的に制作されたプラグインです。
+製作・運営はサーバー管理者(kassi0123)，[[宣伝部&gt;コミュニティ/宣伝部]]が中心となっているkassi-hp.tk Minecraft Server Project Aikotoba v2が行っています。
+サイトのデザインはHirotaisou2012が，サイトのサーバー側システム，プラグインはmine_book000が，内部システムの仕様等の検討，決定はkassi0123が，権限設定等々はX4Zがそれぞれ担当しています。
+** お知らせ
+#region
+- 2015/11/22 とまちーブログにてPCAのアップデートに関するお知らせを行っていきます。
+[[とまちーブログ&gt;http://toma.webcrow.jp/blog/]]にて今後PCAのアップデート内容を詳しくお知らせしていこうと思います。
+いままでDropBox内でアップデート内容を告知していましたが，DropBoxの参加者にしか更新が通知されないなどの理由からこの方式に変更することにしました。
+PCAのお知らせについては[[このカテゴリ&gt;http://toma.webcrow.jp/blog/archives/category/pca]]で行います。
+よろしくお願い致します。
+
+- 2015/11/18 PCA5.1.0以降の不具合の可能性について
+現在，サーバーでは原因不明の不具合によるサーバー停止が多発しています。
+これに関し，Project Aikotoba v2側では原因がPCAではないか，と調査を進めております。
+現在執筆時点では&amp;bold(){原因がPCAのせいであるということは確定できておりません。}
+進展がありましたら当ページ，もしくは当Wikiのお知らせにてご連絡いたします。
+-- 修正バージョンを更新したらなぜか直りました
+#endregion
+** Project Aikotoba v2 メンバーリスト
+|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~備考|
+|CENTER:&amp;image(https://minotar.net/helm/kassi0123,width=32,height=32)|かっしーあっと|kassi0123|全体指揮|[[@kassi_0123&gt;http://twitter.com/ka7sak1]]|[[kassi_0123 (PC)&gt;http://mc.4096.xyz/s.php?id=kassi_0123]]&amp;br()[[kassi_0123-2 (スマフォ)&gt;http://mc.4096.xyz/s.php?id=kassi_0123-2]]|[[kassiat&gt;http://steamcommunity.com/id/kassiat/]]||
+|CENTER:&amp;image(https://minotar.net/helm/X4Z,width=32,height=32)|砂利|X4Z|権限設定など|[[@XYZ4096&gt;http://twitter.com/XYZ4096]]|[[xyz4096 (PC)&gt;http://mc.4096.xyz/s.php?id=xyz4096]]&amp;br()[[lncongruence (スマフォ)&gt;http://mc.4096.xyz/s.php?id=lncongruence]]|[[X4Z&gt;http://steamcommunity.com/id/X4Z]]||
+|CENTER:&amp;image(https://minotar.net/helm/Hirotaisou2012,width=32,height=32)|ヒラタケ|Hirotaisou2012|PCAWeb(PINコード発行ページ)デザイン作成|[[@Hirotaisou2012&gt;http://twitter.com/Hirotaisou2012]]|[[hiratake73&gt;http://mc.4096.xyz/s.php?id=hiratake73]]|[[Hirotaisou2012&gt;http://steamcommunity.com/id/Hirotaisou2012]]||
+|CENTER:&amp;image(https://minotar.net/helm/mine_book000,width=32,height=32)|とまちー|mine_book000|PCAWeb(PINコード発行ページ)サーバー側システム作成&amp;br()PCA(PINコード認証プラグイン)作成|[[@book000&gt;https://twitter.com/book000]]|[[ipad2ne(PC)&gt;http://mc.4096.xyz/s.php?id=ipad2ne]]&amp;br()[[tomachi_2(端末)&gt;http://mc.4096.xyz/s.php?id=tomachi_2]]&amp;br()[[tomachi_3(iPad，Webなど)&gt;http://mc.4096.xyz/s.php?id=tomachi_3]]|[[book000&gt;http://steamcommunity.com/id/book000/]]||
+** 現在の導入バージョン
+[[ここから&gt;http://minesever.kassi-hp.info/server/pinplugin.php]]確認できます。
+** PINコード認証完了までの流れ
+1.[[サーバールール&gt;ルール]]をしっかりと読みます。
+2.サーバールールのページのどこかに隠されているPINコード発行ページへのリンクをクリックします。
+3.サーバールールへの同意を求められますので，同意できる場合はチェックを付け，「PINコードを生成する」をクリックします。
+4.発行ページに飛ぶとPINコードが発行されるので指示に従ってサーバーに入り，入力します。
+5.問題なく処理が完了した場合は認証完了です。お疲れ様でした。
+** エラー発生時の対処について
+まずは誰かに聞く前に返されたエラーメッセージを確認してください。PINコードが間違えていたり，既に使用されていたり，有効期限が切れている場合があります。
+各エラーコードの説明は以下の通りです。
+|エラーコード|エラーメッセージ|理由|対処方法|
+||エラーが発生しました。4桁の半角数字を入力してください。|PINコードは半角数字4桁で構成されています。|半角数字4桁で入力してください|
+|1|エラーが発生しました。このPINコードは無効です。|PINコードの有効期限が切れています。|再度取得してください。|
+|2|エラーが発生しました。このPINコードは無効です。|PINコードが既に使用されています。|再度取得してください。|
+|3|エラーが発生しました。このPINコードは無効です。|PINコードが誤っています。|再度確認し正しいコードを入力してください|
+
+エラーメッセージ，エラー理由を確認してもよくわからない場合は[[コメント&gt;コミュニティ/コメント]]にユーザー名，使用バージョン，どのようにわからないのか等を記入しコメントするか，[[当鯖お問い合わせフォーム&gt;http://goo.gl/forms/irZHe6f8qj]]からお問い合わせください。
+** 仕様
+- JRE1.7でビルドしてるはず
+- spigot 1.8.7/1.8.8で動作確認済み
+&gt;新規さんが来たらモデレーター権限持ちに通知
+&gt;過去に保存されたIPと同じで，かつIDが違ったらモデレーター権限持ちに通知します。
+&gt;[[Minecraftマルチにおける複垢所有というものについて – とまちーブログ&gt;http://toma.webcrow.jp/blog/archives/123]]
+** Command
+- /pin [code]
+&gt;PINコードの入力をします
+- /pina [code]
+&gt;PINコードの入力をします
+- /pinb [code]
+&gt;PINコードの入力をします
+- /save-world
+&gt;ワールドをセーブします。1.8からコマンドブロックで/save-allコマンドが利用できなくなったため
+- /joinmsg
+&gt;新規さんがサーバーにログインした際，スタッフに連絡をおこなうためのコマンドです。実行すると最新バージョンを確認します。通常は利用できません
+-  /pexup [user]
+&gt;DefaultからRegular(常連)に権限を変更します。joinmsgコマンドを使用できるスタップ以上のみの使用が可能です。
+&gt;オンラインのユーザのみ変更できます。
+- /cm [command...] 
+&gt;コマンドブロックにてコンソール(全コマンドを使用可能)から実行するレベルのコマンドを実行します。現在は安全策を模索中で使用が禁じられています。
+
+** #kassi_hp_tk_pin_code
+[[こちら&gt;http://mc.4096.xyz/pin/hashtag.php]]

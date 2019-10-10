@@ -1,0 +1,36 @@
+* Modとか
+ここに書いてあるModは導入必須ではありませんが、導入すると便利です。
+チート系Mod(一気破壊系、連打系Mod)の使用は原則禁止しています。
+** 基本mod
+当Wikiで紹介しているModについての当サーバーでのサポートは原則行っていませんので、自己責任でおねがいします。
+- [[MinecraftForge&gt;http://files.minecraftforge.net]]
+-- [[導入方法の解説はこちら&gt;modとか/Forge導入]]
+- [[LiteLoader&gt;http://www.liteloader.com/]]
+-- [[導入方法の解説はこちら&gt;modとか/Liteloader導入]]
+** 日本語入力mod
+- [[NihongoMOD&gt;http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=6279#p51067]]
+-- [[導入方法の解説はこちら&gt;modとか/NihongoMOD導入]]
+--- 対応バージョン：～1.6.4
+- [[IntelliInput&gt;http://forum.minecraftuser.jp/viewtopic.php?t=17148]]
+-- [[導入方法の解説はこちら&gt;modとか/IntelliInput導入]]
+--- 対応バージョン：1.6.4～
+- [[TorimaInput&gt;http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=5440]]
+-- [[導入方法の解説はこちら&gt;modとか/TorimaInput導入]]
+--- 対応バージョン：1.8～
+- [[InputFix&gt;http://minecraft.curseforge.com/mc-mods/71620-inputfix]]
+-- [[導入方法の解説はこちら&gt;modとか/InputFix導入]]
+--- 対応バージョン：1.6.x、1.7.x、1.8
+- [[CocoaInput&gt;http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=24394]]
+-- [[導入方法の解説はこちら&gt;modとか/CocoaInput導入]] (管理人にはMac環境がない)
+--- 対応バージョン 1.7.10、1.8 の Forge
+- [[ひらかな&gt;http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=24394]]
+-- CocoaInputのダウンロードリンクの下にある
+--- 対応バージョン 1.7.10、1.8 の Forge
+** 軽量化mod
+- [[OptiFine&gt;http://www26.atwiki.jp/minecraft/pages/295.html]]
+-- [[導入方法の解説はこちら&gt;modとか/OptiFine導入]]
+
+** その他mod
+- [[WorldEditCUI&gt;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui]]
+-- [[導入方法の解説はこちら&gt;modとか/WorldEditCUI導入]]
+--- 対応バージョン 1.4.6 / 1.5.1 / 1.5.2 / 1.6.2 / 1.6.4 / 1.7.2 / 1.7.10 / 1.8 の LiteLoader環境

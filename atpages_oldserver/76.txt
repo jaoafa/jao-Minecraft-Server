@@ -1,0 +1,120 @@
+#image(http://i.imgur.com/6GOA7rG.png)
+ありがとうございました。
+
+いわゆる「内輪ネタ」のフロントページ。
+*[[ニュース&gt;コミュニティ/kassi-hp.tk@news]]
+#region()
+&gt;#include(コミュニティ/kassi-hp.tk@news)
+#endregion
+* [[Steamグループ&gt;http://steamcommunity.com/groups/kassimine]]
+- &amp;s(){まず使われたことはない}
+*[[新世紀スーパーハイパーウルトラエクストリームインセインギガンティックエピックアメージングアーサムビューティフォースペシャルスワッグ言語]]
+- 他人の誤字を嘲笑い，その誤字を使って会話する文化。
+かつて嘲笑いされていた誤字が今は神聖化されつつある。
+
+* 国・市町村
+#lsd(コミュニティ/国)
+#lsd(コミュニティ/市)
+#lsd(コミュニティ/町)
+- [[その他&gt;コミュニティ/その他の地域]]
+
+* [[交通&gt;コミュニティ/交通]]
+かっしー鯖は&amp;color(#808080){&amp;s(){過剰なくらいに}}交通が整備されており，ほとんどの町へ道路などの何らかの交通手段を利用して移動することができる。
+特に，[[鉄道&gt;コミュニティ/交通/鉄道]]の整備は盛んに行われている。
+
+* [[色派閥&gt;コミュニティ/色派閥]]
+
+* 広告
+このサーバーでは，[[ImageOnmapプラグイン&gt;http://dev.bukkit.org/bukkit-plugins/imageonmap/]]により，地図に任意の画像を地図として表示することができる。この地図をアイテムフレームを使って壁に貼り付けることで，好きな画像を壁に表示することができるのだ。
+これにより，広告のような画像を作り，それをあちこちに貼り回す&amp;s(){アホな}ユーザーが現れるようになった。
+
+* ImageOnMapプラグインで生成された画像
+mine_book000によってリスト化されました。
+[[kassi-hp.tk Minecraft Server ImageOnMap List欠番表示なし&gt;https://dl.dropboxusercontent.com/content_link/vNzjoXeUq0nPKylhphZN94EwnCldHVzmVqed0hZyPeWBpZAjT0LE1qnBJ96qlflA/file]]
+[[欠番表示あり&gt;https://dl.dropboxusercontent.com/content_link/HfQcxo9pKIEsJabW6SQRiuVNil0Qo1UcnFPcdSLPN54uBs9gqSErEVzAm67cCqF7/file]]
+[[ImageOnMap使用率円グラフ&gt;https://dl.dropboxusercontent.com/content_link/iqB5ZGAroSsdK1Ob4ZvW9yZ3mW6Qe51SMF4R8NFtD2LEJkpvFQ8kD5Vz18gicPYy/file]]
+
+* 鯖公式 Skypeグループ
+需要があまりにも無いので消えました。
+どっかの人が空気読まずに作ったらしいけど
+
+* サーバー状況推移グラフ
+[[グラフページ&gt;http://tomachi.webcrow.jp/kassi-hp/]]から閲覧できます。
+5分毎に取得
+
+* サーバー状態
+#image(http://mc.4096.xyz/server/line.jpg)
+&gt;1行目:ONLINE/OFFLINE
+&gt;2行目:ONLINEなら前回サーバーが停止したときの時刻
+&gt;OFFLINEなら前回サーバーが起動した時刻
+&gt;3行目:ONLINEなら前回サーバーが起動した時刻からサーバーが停止したときの時刻までの差
+&gt;OFFLINEなら前回サーバーが停止した時刻からサーバーが起動したときの時刻までの差
+&gt;4行目:この画像を生成した時刻
+mine_book000が作成。
+宣伝部のサーバーメールサービスと連携して作成しているとか
+
+** サーバーの自動起動の仕組み
+#image(http://mc.4096.xyz/server-pinging.png,width=250,height=250)
+
+* 集合写真
+** 2015/03/24 同時ログイン人数10・11人記念
+- 相変わらずその場にいなかった[[砂利は無事死亡した&gt;http://puu.sh/gKY9P/c7c6fe5b36.jpg]]
+&amp;image(http://puu.sh/gP5wh/6846185e84.png,width=400,height=224)
+&amp;image(http://minesever.kassi-hp.info/login_image/_2.png,width=400,height=224)
+&amp;image(http://minesever.kassi-hp.info/login_image/_3.png,width=400,height=224)
+&amp;image(http://minesever.kassi-hp.info/login_image/_4.png,width=400,height=224)
+//1枚目元画像→http://minesever.kassi-hp.info/login_image/_1.png
+
+** 2015/03/22 同時ログイン人数9人記念
+- 撮影日間違ってるけど気にしない その後その場にいれなかった[[砂利は無事死亡した&gt;http://puu.sh/gKY9P/c7c6fe5b36.jpg]]
+&amp;image(http://puu.sh/gKWWz/1074772ea0.jpg,width=400,height=224)
+&amp;image(http://puu.sh/gP54W/8cd1750a59.jpg,width=400,height=224)
+//元画像→http://puu.sh/gKZF8/34297e2cfd.jpg
+
+* [[迷言・名言集&gt;コミュニティ/名言・迷言集]]
+----
+* さらにどうでもいいこと
+&amp;color(#ccc){&amp;s(ここでこそ音楽部仕事しろ){}}
+***とまとのテーマ
+Pegboard Nerds - BADBOI
+&amp;youtube(https://youtu.be/v372aagNItc){320,180}
+冒頭が「とまとぉwとまとぉw」と聞こえることから，とまちー(mine_book000)と結び付けられてしまった音楽。
+
+**ﾍｲ ﾕﾉｫﾝﾜｲ ﾜｨｱｨﾜｨｬ?
+(&#039;o&#039;) ﾍｲ ﾕﾉｫﾝﾜｲ ﾜｨｱｨﾜｨｬ?
+(&#039;o&#039;) ｲﾖｯﾊ ｲﾔﾊ ｲﾔﾊ ｲﾔﾊ ｲﾔﾊ ｲﾔﾊ ｲﾔﾊ ... ｫﾎﾎｯﾊｰﾎﾎｯﾊｰﾎﾎｯﾊｰﾊﾊﾊﾊﾊﾎﾎ...
+(&#039;o&#039;) ィ～ッニャッハッハッハッハッハッハッハッハッハッ
+(&#039;o&#039;) ィ～ニャッハッハッハッハッハッハッハッハッ
+(&#039;o&#039;) ﾝィ～ッニャッハッハッハッハッハッハッハッハッハッハッ
+(&#039;o&#039;) オーホホオーホホオーホホホホホホ
+(&#039;o&#039;) ｲﾖ ｲﾖ ｲﾖ ﾎﾎ ｲﾖ ｲﾖ ｲﾖ ﾎﾎ ｲﾖ ｲﾖ ｲﾖ ﾎﾎ ｵｰﾎﾎ ｵｯﾎﾎ
+(&#039;o&#039;) ｲﾖ ｲﾖ ｲﾖ ﾎﾎ ｲﾖ ｲﾖ ｲﾖ ﾎﾎ ｲﾖ ｲﾖ ｲﾖ...ｲﾖ...ｲﾖ...ｲﾖ...
+(&#039;o&#039;) ィ～ニャッハッハッハッハッハハハッハッハハハッハッハッハハハッ(ﾋﾟｩｰﾝ)
+(&#039;o&#039;) ィ～ニャッハッハッハッハハハッハッハハハハハハッハッハッ(ｳｫｰｱｰ?ﾀﾞｨｬ)
+(&#039;o&#039;) ィ～ニャッハッハッハッハッハハハッハッハハハッハッハッハハハッ(ﾋﾟｩｰﾝ)
+(&#039;o&#039;) ィ～ニャッハッハッハッハハハッハッハハハハハハッハッハッ(ﾆｮﾝ)ウォオオオオウ！！！！！！
+(&#039;o&#039;) ＜ を
+Excision &amp; Space Laces - Destroid 10 Funk Hole VIP
+&amp;youtube(https://youtu.be/UlyprQrZz4U){320,180}
+動画の後ろの方の，笑い声みたいな奴を文字に書きだしたもの。もはやなんの関係もないのに一時期かっしー鯖民が必死こいて空耳を文字に起こした。
+
+**44n - Their Voices
+[[44n - Their Voices&gt;https://soundcloud.com/afuafu/their-voices]]
+なぞのミュージシャンクラフター『44n』によるかっしー鯖で人気の曲。
+
+*内輪ネタ
+用語集にあったやつ
+** 整地ツールかくづき
+- [[Lunar_K&gt;http://twitter.com/3k1r]]のこと
+
+** TNTは正直弱い
+東Misskey町(現東とまちー市)整地を行った際にかくづき氏が放った一言
+#image(http://puu.sh/bYzbJ/8e30ed0705.png)
+
+** かくづきする
+- 整地する
+
+** コマンド版かくづき
+- CraftBukkitのプラグインWorldEditのこと
+
+#include(コミュニティ/迷言・迷言集)

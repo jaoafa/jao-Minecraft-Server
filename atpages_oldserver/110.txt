@@ -1,0 +1,8 @@
+
+&lt;p&gt;オムレツ市内の企業&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;#contents()&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;-オムレツホールディングス&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;本社：オムレツ市&lt;/p&gt;

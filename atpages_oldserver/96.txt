@@ -1,0 +1,36 @@
+// 
+// 2016/02/26「 、」を「，」に置き換え - mine_book000
+// 
+//----------------------------------------------//
+//このページを編集するときはmine_book000に一言声かけてください
+//国追加するときは直接編集しないで国章(64px×64px)と国個別ページを用意し，mine_book000に問い合わせてください
+//----------------------------------------------//
+* What is 国?(国とは？)
+-サーバールールが適用されない地域
+-個別のBAN基準を設定できる
+
+* 国の条件
+- 全体ルールが一つでも適用されないこと(現在設定されている全体ルールに1つ以上逆らったルールを制定していること)
+→国になった時点で自動的に全体ルールが適用されなくなる
+- 独自のBAN基準があること
+
+* 国運営に関わる注意
+国同士であれば，戦争等構いませんが，他の市町に被害を出さないでください。
+//また，戦争による国への被害の大きさに関わらず，正当な理由(連絡なく勝手に戦争を開始させられたなど)がない限り&amp;bold(){復元を行わない}方針です。
+また，戦争等を開始する場合は必ず相互の同意の上行ってください。
+戦争等に関するすべての被害，問題の責任は参戦した相互の国の責任です。
+サーバー管理者をはじめとする参戦国以外のユーザは責任を負いませんのでご了承下さい
+戦争前に相手の国のルール程度は読んでくださいな
+
+** 国一覧
+|BGCOLOR(#ffffe0):CENTER:~国運営者&amp;br()スキン|BGCOLOR(#ffffe0):CENTER:~国運営者ID|BGCOLOR(#ffffe0):CENTER:~国章|BGCOLOR(#ffffe0):CENTER:~個別ページ|BGCOLOR(#ffffe0):CENTER:~備考|
+|BGCOLOR(#ffffe0):CENTER:&amp;image(https://minotar.net/helm/mine_book000.png,width=32,height=32,center)|BGCOLOR(#ffffe0):CENTER:mine_book000|BGCOLOR(#ffffe0):&amp;image(http://i.imgur.com/x7DzHzz.jpg,width=64,height=64)|BGCOLOR(#ffffe0):SIZE(30):CENTER:[[とまちー国&gt;コミュニティ/国/とまちー国]]|BGCOLOR(#ffffe0):CENTER:特になし|
+|BGCOLOR(#ffffe0):CENTER:&amp;image(https://minotar.net/helm/T27.png,width=32,height=32,center)|BGCOLOR(#ffffe0):CENTER:T27|BGCOLOR(#ffffe0):&amp;image(http://i.imgur.com/2H9WWyA.png,width=64,height=64)|BGCOLOR(#ffffe0):SIZE(30):CENTER:[[タケヤリ国&gt;コミュニティ/国/タケヤリ国]]|BGCOLOR(#ffffe0):CENTER:国章が64×64じゃないのでもう一度作りなおしてください|
+|BGCOLOR(#ffffe0):CENTER:&amp;image(https://minotar.net/helm/KERORIN1128.png,width=32,height=32,center)|BGCOLOR(#ffffe0):CENTER:KERORIN1128|BGCOLOR(#ffffe0):&amp;image(http://i.imgur.com/onKWXHI.png,width=64,height=64)|BGCOLOR(#ffffe0):SIZE(30):CENTER:[[ケロリン軍事共和国&gt;コミュニティ/国/ケロリン軍事共和国]]|BGCOLOR(#ffffe0):CENTER:特になし|
+|BGCOLOR(#ffffe0):CENTER:&amp;image(https://minotar.net/helm/mabetto.png,width=32,height=32,center)|BGCOLOR(#ffffe0):CENTER:mabetto|BGCOLOR(#ffffe0):&amp;image(http://img.atwikiimg.com/www60.atwiki.jp/kassimine/attach/74/52/2H9WWyA.png)|BGCOLOR(#ffffe0):SIZE(30):CENTER:[[ピペリカ合衆国&gt;コミュニティ/国/ピペリカ合衆国]]|BGCOLOR(#ffffe0):CENTER:画像ファイルが削除されています|
+|BGCOLOR(#ffffe0):CENTER:&amp;image(https://minotar.net/helm/3hai.png,width=32,height=32)|BGCOLOR(#ffffe0):CENTER:afuafu55|BGCOLOR(#ffffe0):&amp;image(http://i.imgur.com/2H9WWyA.png,width=64,height=64,center)|BGCOLOR(#ffffe0):SIZE(30):CENTER:[[あふあふ国&gt;コミュニティ/国/あふあふ国]]|BGCOLOR(#ffffe0):CENTER:ああん城建設開始！|
+|BGCOLOR(#ffffe0):CENTER:&amp;image(https://minotar.net/helm/X5Z.png,width=32,height=32)|BGCOLOR(#ffffe0):CENTER:X5Z|BGCOLOR(#ffffe0):&amp;image(http://i.imgur.com/2H9WWyA.png,width=64,height=64)|BGCOLOR(#ffffe0):SIZE(30):CENTER:[[蝦夷国&gt;コミュニティ/国/蝦夷国]]|BGCOLOR(#ffffe0):CENTER:画像を作成してください|
+//----------------------------------------------//
+//このページを編集するときはmine_book000に一言声かけてください
+//国追加するときは直接編集しないで国章(64px×64px)と国個別ページを用意し，mine_book000に問い合わせてください
+//----------------------------------------------//

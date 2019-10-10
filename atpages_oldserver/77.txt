@@ -1,0 +1,5 @@
+*プラグインについて
+当サーバーにはいくつかのプラグインが導入されています。
+&amp;include(全てのプラグイン)
+
+最新のプラグインは[[ここ&gt;http://minesever.kassi-hp.info/server/plugins.php]]からご確認ください。

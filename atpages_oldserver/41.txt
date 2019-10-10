@@ -1,0 +1,44 @@
+* 3分34秒でわかるForge導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+** Forgeのダウンロード
+*** 1
+- 1.6.4
+#image(http://puu.sh/h77Xm/e35aeec843.png)
+- 1.7.10
+#image(http://puu.sh/h77YQ/eaefb3f4d2.png)
+- 1.8
+#image(http://puu.sh/h7802/5217c06b1a.png)
+- 1.9
+#image(http://puu.sh/nVvHv/b186574ba0.png)
+- [[Forgeのファイルサーバー&gt;http://files.minecraftforge.net/]]から下の方にある導入したいMinecraftと同じバージョンのを上のようにクリックし
+- 下の画像のようにLatest または Recommendedの左から2番目のアイコンをクリック
+#image(http://puu.sh/h783I/3b911f2758.png)
+*** 2
+#image(http://puu.sh/h785U/df384e258d.jpg)
+右上にこんな感じのskipが出てきたらクリックするとDLできる
+** Forgeインストール
+*** 1
+#image(http://puu.sh/cimrv/dae4116f26.jpg)
+- DLしてきたのを起動すると上のようなのが出るのでそのまま何もせずにOKを選択
+- そうすると何やらおっけーだよみたいなメッセージがでるのでそのままOKを選択し閉じる
+*** 2
+#image(http://puu.sh/d9Fyv/e889da153e.png,width=630,height=406)
+- 左下にあるNewProfileをクリック
+#image(http://puu.sh/cir4F/204d2a83e4.png)
+- なにやら英語の羅列が出てくるので上の画像のように設定してSave Profileを選択
+-- 画像は1.6.4の場合だが1.7.10でも同じように可能
+-- ProfileNameは半角英数ならなんでも可
+ GameDirectoryは別に画像のようにいじらなくても大丈夫だが
+ いじっておくとバージョンごとにmodsフォルダなどをわけることができるので便利
+*** 3
+#image(http://puu.sh/d9Fyv/e889da153e.png,width=630,height=406)
+- 左下の(Default)を2で設定した物を選択しPlayを選択
+*** 4
+#image(http://puu.sh/ciqTJ/82e60a7800.jpg,width=609,height=363)
+- 無事起動するとこんな感じになる
+*** 5
+- (ﾟдﾟ)ｳﾏｰ

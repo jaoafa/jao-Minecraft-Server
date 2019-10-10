@@ -1,0 +1,27 @@
+* 3分34秒でわかるIntelliInput導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- 前提ModであるForgeの導入解説は[[modとか/Forge導入]]にあります
+- 1.6.4以降対応なので1.6.4以前の場合は[[NihongoMOD&gt;modとか/NihongoMOD導入]]などの1.6.4以前対応のmodを導入してください
+- なお解説は1.6.4Forge導入環境を前提としていますが1.7.2、1.7.10、1.8、1.8.8でも同様です
+** 1
+#image(http://puu.sh/cir9i/f939c173f2.png,width=630,height=406)
+- 左下のEdit Profileを選択
+#image(http://puu.sh/ciraX/43023142f5.png)
+- 出てきたなにやらどこかで見たことある画面の右下にあるOpen Game Dirを選択
+** 2
+#image(http://puu.sh/cireP/84f308270f.png)
+- エクスプローラーが立ち上がるのでmodsフォルダを開く
+- 空になっていることを確認したら
+#image(http://puu.sh/ddNdQ/d95c748f3e.png)
+- [[IntelliInput&gt;http://forum.minecraftuser.jp/viewtopic.php?t=17148]]の[[ダウンロードページ&gt;http://mcc.mcsv.jp/IntelliInput/Download]]から
+- Minecraftのバージョンに合わせた物(Forge対応版は1.6.4/1.7.2/1.7.10/1.8/1.8.8)を選択しDL
+** 3
+#image(http://puu.sh/cisxu/ca3e280974.jpg)
+- 2でDLしたjarファイルをそのままmodsフォルダに入れます
+** 4
+#image(http://puu.sh/cisFX/3339886422.png)
+- Minecraft(1.6.4Forge)を起動してマルチサーバーなどに入りTキーなどを押してチャットを出し、日本語入力ができれば成功です

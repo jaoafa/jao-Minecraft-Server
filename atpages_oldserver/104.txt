@@ -1,0 +1,3 @@
+* 現在編集中
+// WorldEditCUI導入方法かける人書いてください。
+// LifeLoaderを使用

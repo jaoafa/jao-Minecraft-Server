@@ -1,0 +1,15 @@
+* ImageOnmap
+Minecraftの地図に好きな画像を当てはめ，独自の絵画として使うなどするためのプラグインです。
+ただし，地図に利用可能な色しか使用できません。
+
+1枚の地図は128x128のドットで構成されているため，128x128の画像を使うと，地図1枚にピッタリの絵を嵌めこむことができます。
+
+**コマンド
+|/tomap [画像URL]|URL先の画像ファイルを地図に書き込みます。画像サイズが128x128を超えている場合，自動的に複数の地図に分割してくれます。その場合，「何列目の何行目」といった名前が地図に自動付与されます。また，手に地図を持っている状態でこのコマンドを打った場合，手に持っている地図を上書きして新しい地図を生成します。|
+|/maptool|地図のIDなどの管理を行うコマンドです。詳しくは/maptool helpをご確認ください。|
+
+* ImageOnMapプラグインで生成された画像
+mine_book000によってリスト化されました。
+[[kassi-hp.tk Minecraft Server ImageOnMap List欠番表示なし&gt;https://dl.dropboxusercontent.com/content_link/vNzjoXeUq0nPKylhphZN94EwnCldHVzmVqed0hZyPeWBpZAjT0LE1qnBJ96qlflA/file]]
+[[欠番表示あり&gt;https://dl.dropboxusercontent.com/content_link/HfQcxo9pKIEsJabW6SQRiuVNil0Qo1UcnFPcdSLPN54uBs9gqSErEVzAm67cCqF7/file]]
+[[ImageOnMap使用率円グラフ&gt;https://dl.dropboxusercontent.com/content_link/iqB5ZGAroSsdK1Ob4ZvW9yZ3mW6Qe51SMF4R8NFtD2LEJkpvFQ8kD5Vz18gicPYy/file]]

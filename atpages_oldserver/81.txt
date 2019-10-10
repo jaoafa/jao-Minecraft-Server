@@ -1,0 +1,6 @@
+*PermissionEx
+PermissionExは，他のBukkit/Spigotプラグインの機能をユーザーごとに使用可能にする「権限」である「パーミッション」を設定するために必要な前提プラグインです。単体では特に用途はありませんが，サーバーの荒らし対策などをする場合などには，必ず必要になってくるプラグインです。
+
+**Link
+[[Bukkit PermissionsExページ&gt;http://dev.bukkit.org/bukkit-plugins/permissionsex/]]
+[[Modifyworld紹介ページ&gt;サーバーMOD/Modifyworld]]

@@ -1,0 +1,66 @@
+//メンテナンス用
+//&amp;size(120%){System Maintenance&amp;br()Please Wait}
+//
+//Twitter用
+&amp;size(1px){@book000 #Edit_Tomachi_Countory}
+//#image(http://tomachi.webcrow.jp/country/top.php,center,height=300)
+* Tomachi Country
+** [[Bear make, different with the &quot;tomato&quot;, &quot;cheese&quot; world!&gt;http://tomachi.lv9.org/tw.php]]
+Country to make a &quot;super-heavy&quot; in the famous &quot;Tomachi&quot;.
+[[Tomachi Countries Official Site&gt;http://minesever.kassi-hp.info/community/tomachi_country/]]
+[[Tomachi Countries Official Github&gt;https://github.com/book000/Tomachi_country]]
+----
+** Server Status
+#region(Click on the &quot;+&quot; to see the status)
+*** kassi-hp.tk Minecraft Server
+|Server|Status|
+|minesever.kassi-hp.info:80|&amp;image(http://tomachi.lv9.org/server/img.php?port=80)|
+|minesever.kassi-hp.info:25565|&amp;image(http://tomachi.lv9.org/server/img.php?port=25565)|
+|minesever.kassi-hp.info:8123|&amp;image(http://tomachi.lv9.org/server/img.php?port=8123)|
+#region(Display Description)
+ ONLINE
+&gt;We are running normally!
+ OFFLINE
+&gt;Not running.
+#endregion
+*** Mojang
+|Server|Status||Server|Status|
+|minecraft.net|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=minecraft.net)||skins.minecraft.net|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=skins.minecraft.net)|
+|session.minecraft.net|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=session.minecraft.net)||authserver.mojang.com|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=authserver.mojang.com)|
+|account.mojang.com|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=account.mojang.com)||sessionserver.mojang.com|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=sessionserver.mojang.com)|
+|auth.mojang.com|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=auth.mojang.com)||api.mojang.com|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=api.mojang.com)|
+|textures.minecraft.net|&amp;image(http://tomachi.lv9.org/server/mojang.php?server=textures.minecraft.net)||||
+#region(Display Description)
+ ONLINE
+&gt;We are running normally!
+ Down
+&gt;Server is down.
+&gt;It may not be put in a multi-server for reasons such as during maintenance.
+ Running
+&gt;We are once running, but it is unstable.
+&gt;It may not be put in a multi-server in some cases.
+ Error
+&gt;I could not get the information.
+
+&gt;This information can be confirmed in [[&quot;Mojang Support Center&quot;&gt;https://help.mojang.com]].
+&gt;Information you are viewing will be cached for one minute. Please reload after waiting a while if you want to get the latest information.
+#endregion
+#endregion
+----
+** Who is Tomachi?
+This server publicity department chairman and staff.
+Twitter:@book000
+
+*** User Data
+-[[This User&#039;s Twitter Account&gt;https://twitter.com?sn=book000]]
+-[[This User&#039;s Skype Account&gt;http://nanostoy.hol.es/skype.php?mode=2]]
+-[[This User&#039;s Official Web Site&gt;http://nanostoy.hol.es/service/]]
+----
+** Admin Member
+- When you press the Skype link to display the user in the app.
+|CENTER:~Skin|CENTER:~HandleName|CENTER:~PlayerID|CENTER:~Position|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~Remarks|
+|CENTER:&amp;image(https://minotar.net/helm/mine_book000,width=32,height=32)|Tomachi|mine_book000|The entire administrator|[[@book000&gt;https://twitter.com/book000]]|[[ipad2ne(PC)&gt;http://mc.4096.xyz/s.php?id=ipad2ne]]&amp;br()[[tomachi_2(Phone)&gt;http://mc.4096.xyz/s.php?id=tomachi_2]]&amp;br()[[tomachi_3(iPad・Web)&gt;http://mc.4096.xyz/s.php?id=tomachi_3]]|[[book000&gt;http://steamcommunity.com/id/book000/]]||
+|CENTER:&amp;image(https://minotar.net/helm/X4Z,width=32,height=32)|jyari|X4Z|Sub Administrator|[[@XYZ4096&gt;http://twitter.com/XYZ4096]]|[[xyz4096 (PC)&gt;http://mc.4096.xyz/s.php?id=xyz4096]]&amp;br()[[lncongruence (Phone)&gt;http://mc.4096.xyz/s.php?id=lncongruence]]|[[X4Z&gt;http://steamcommunity.com/id/X4Z]]||
+----
+&amp;color(green){&amp;update()Update.&amp;br()}
+Copyright&amp;copy; 2015 Tomachi Country Project. All rights reserved.

@@ -1,0 +1,26 @@
+* 3分34秒でわかるLiteLoader導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- 1.8環境を前提に書いております
+** LiteLoaderのダウンロード
+- 1.7.10
+#image(http://puu.sh/d9UMI/5937289671.jpg)
+- 1.8
+#image(http://puu.sh/d9UO6/20bfc9f33a.png)
+- [[ここ&gt;http://www.liteloader.com/download]]から([[1.8対応版はここ&gt;http://jenkins.liteloader.com/job/LiteLoaderInstaller/]])下の方にある導入したいMinecraftと同じバージョンのやつのInstallerをDL
+** LiteLoaderインストール
+*** 1
+- DLしたものを起動するとこんな感じのが立ち上がりますので
+#image(http://puu.sh/d9UQX/4b1000044d.jpg)
+- Extend fromの部分を1.8のバニラか1.8-Forgeのほうかを選択してOKを押します
+-- 以降ここでは1.8バニラでの環境を前提とします
+*** 2
+#image(http://puu.sh/d9UYo/9ec3bd33d3.png,width=630,height=406)
+- ランチャーを起動して左下の▼をクリックすると新しく項目ができているのでそれを選択します
+*** 3
+- 選択後無事起動したら成功です
+- お疲れ様でした
+-- LiteLoader前提の日本語mod[[TorimaInput&gt;modとか/TorimaInput導入]]の導入方法はこちら

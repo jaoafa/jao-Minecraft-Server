@@ -1,0 +1,26 @@
+// 勝手にいじるな いじったら予告なしでLocalBANすっから
+* BANリスト
+- 1.5.2期の奴は多いので省略
+- 下に行くほど新しい
+- MCBansで評価値が7未満の人(MCBansの導入されたサーバーでGlobalBANを少なくとも3回以上を受けた人)は&amp;bold(){ここに書かれてなくても入れません。}
+- 122.103.99.18はJPのクローラーだった模様です
+- [[MCBansのページ&gt;http://mcbans.com/server/50671/]]
+|CENTER:~プレイヤーID|CENTER:~日時|CENTER:~理由|CENTER:~対処|CENTER:~備考|
+|[[kazuogura&gt;https://ja.namemc.com/s?kazuogura]]|2014/08/22|荒らし|LocalBAN|MCBans導入前|
+|[[hironyan1004&gt;https://ja.namemc.com/s?hironyan1004]]|2014/08/28|荒らし|LocalBAN|MCBans導入前|
+|[[saka333&gt;https://ja.namemc.com/s?saka333]]|2014/08/31|荒らし|LocalBAN|MCBans導入前|
+|[[light0915&gt;https://ja.namemc.com/s?light0915]]|2015/01/16|サーバーに負担をかける行為|LocalBAN|サーバーが止まるという影響が出たため|
+|[[sonju0908&gt;https://ja.namemc.com/s?afc198a6-8024-40fd-b215-d461ca1affe0]]|2015/03/20|町荒らし|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2015-03-20_15.09.16.png]]||
+|[[X9REMIX&gt;https://ja.namemc.com/s?X9REMIX]]|2015/03/24|建物などを破壊＋住民に対して暴言|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2015-03-24_19.35.51.png]]||
+|[[7komakazuki&gt;https://ja.namemc.com/s?7komakazuki]]|2015/05/03|建物などを破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2015-05-03_12.53.09.png]]|実況主の偽物？|
+|[[wSETSUNAw&gt;https://ja.namemc.com/s?wSETSUNAw]]|2015/05/03|荒らし|LocalBAN|上記7komakazukiと同一人物の可能性があるため|
+|[[ErrorNumber_96&gt;https://ja.namemc.com/s?ErrorNumber_96]]|2015/05/05|暴言＋迷惑|LocalBAN|証拠：[[その１&gt;http://minesever.kassi-hp.info/lban/2015_05_05_1.png]] [[その２&gt;http://minesever.kassi-hp.info/lban/2015_05_05_2.png]] [[その３&gt;http://minesever.kassi-hp.info/lban/2015_05_05_3.png]]|
+|[[Flayboy&gt;https://ja.namemc.com/s?Flayboy]]|2015/05/05|暴言＋迷惑|LocalBAN|同上|
+|[[KillAura_God&gt;https://ja.namemc.com/s?KillAura_God]]|2015/05/05|暴言＋迷惑|LocalBAN|同上|
+|[[asushi0415&gt;https://ja.namemc.com/s?asushi0415]]|2015/05/29|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2015-05-26_17.54.58.png]]||
+|[[Blackmario0619&gt;https://ja.namemc.com/s?4c55f7bc-b028-4f35-ac6d-6653519a75a3]]|2015/06/02|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2015-06-02_20.39.00.png]]||
+|[[mokodate&gt;https://ja.namemc.com/s?33333f7d-c307-4705-8798-80fdc8ac2191]]|2015/10/18|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2015-10-18_18.06.18.png]]||
+|[[Critical&gt;https://ja.namemc.com/s?418999d0-cde1-4bf6-b1e5-803cfa3558bd]]|2016/01/18|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2016-01-18_22.05.14.png]]|[[とまちー国ログ&gt;https://github.com/book000/Tomachi_country/blob/master/user/Critical.txt]] [[Corran_Raisu&gt;https://ja.namemc.com/s?9574fcf7-b153-4726-a382-ab68bdbf0ab1]](LocalBAN済み)と同一人物|
+|[[Nyemare&gt;https://ja.namemc.com/s?0014fa39-52e1-4c5f-8958-800cf0b3504f]]|2016/01/29|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2016_01_29_17.25.jpg]]|[[とまちー国ログ&gt;https://github.com/book000/Tomachi_country/blob/master/user/Nyemare.txt]]|
+|[[yukkurikirara&gt;https://ja.namemc.com/s?20dd137ff0b44cbd85a432a6ffa86a17]]|2016/03/05|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2016-03-05_21.28.20.png]]|[[とまちー国ログ&gt;https://github.com/book000/Tomachi_country/blob/master/user/Nyemare.txt]]|
+|[[Jgsh&gt;https://ja.namemc.com/s?90731f20c97e4d4da0622ca2ba8330f4]]|2016/03/05|破壊|[[GlobalBAN&gt;http://minesever.kassi-hp.info/gban/2016-03-05_21.43.01.png]]|[[とまちー国ログ&gt;https://github.com/book000/Tomachi_country/blob/master/user/Jgsh.txt]]|

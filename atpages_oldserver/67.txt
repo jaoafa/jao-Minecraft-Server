@@ -1,0 +1,28 @@
+* 3分34秒でわかるOptiFine導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- この解説に載っているForgeの導入解説は[[modとか/Forge導入]]にあります
+- 解説は1.7.10 Forge導入環境と1.8.1 バニラを前提としています
+** 1.7.10Forgeの場合
+*** 1
+#image(http://puu.sh/cir9i/f939c173f2.png,width=630,height=406)
+- 左下のEdit Profileを選択
+#image(http://puu.sh/ciraX/43023142f5.png)
+- 出てきたなにやらどこかで見たことある画面の右下にあるOpen Game Dirを選択
+*** 2
+#image(http://puu.sh/cireP/84f308270f.png)
+- エクスプローラーが立ち上がるのでmodsフォルダを開く
+#image(http://puu.sh/fxNyR/757164d96b.png)
+- [[OptiFine&gt;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-1-8-1-optifine-hd-c7-fps-boost-hd-textures-aa-af]]から
+- バージョンにあったもの(今回は1.7.10)をDL
+*** 3
+#image(http://puu.sh/fxNER/856b2fdeb9.jpg)
+- 2でDLしたjarファイルをそのままmodsフォルダに入れます
+*** 4
+#image(http://puu.sh/fxNIh/a3937ee65b.jpg)
+- Minecraft(1.7.10 Forge)を起動して無事起動し設定のビデオ設定項目が増えていれば導入成功です
+** 1.8.1 バニラ
+- 準備中...

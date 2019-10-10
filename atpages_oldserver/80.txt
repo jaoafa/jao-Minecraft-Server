@@ -1,0 +1,10 @@
+*MCBans
+MCBansはBukkitプラグインを使ったMinecraftのグローバルBANソリューションです。 
+世界中にある2,000以上のアクティブサーバで常にこのプラグインが使われています。
+世界中のBAN情報を収集し、各ユーザーに「評価値(Reputation)」というものを付けて、安全性を調べています。
+当サーバーでは、「評価値(Reputation)」が7以下のユーザーを入れないようにし、安全確保を行っています。
+また、当鯖ではルールへの違反が確認され次第、[[Global Ban Rules&gt;http://wiki.mcbans.com/display/MCBAN/Global+Ban+Rules]]を確認した上でグローバルBanを行っています。
+
+**Link
+[[MCBans公式&gt;http://mcbans.com]]
+[[当サーバーのMCBansページ&gt;http://mcbans.com/server/minesever.kassi-hp.info]]

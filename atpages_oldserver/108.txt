@@ -1,0 +1,2 @@
+*MotdManager
+サーバー選択時の所に表示するMotdを変更するMOD

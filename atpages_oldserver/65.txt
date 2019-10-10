@@ -1,0 +1,81 @@
+// なんか編集されてたからなにかと思って編集履歴見たけど4月のメンバー決まったのね
+// まさか方針を見てないなんて言わないだろうけど
+//&gt;&gt; 管理人は管理人の判断によって管理部のユーザーを操作することが出来ます。 
+//&gt;&gt; しかし、管理人がその行為を行えない場合は副管理人、スタッフ、スタップの順番で行えるユーザーが操作を行います。
+// この方針に従うならなんも権限を持っていない砂利が編集はできないんですよね
+// ちなみに編集したのさっきじゃんとか言われると思うから事前に言っておくと「2016/02/11 (木)」の時点で適用してるからね
+// http://www60.atwiki.jp/kassimine/?cmd=backup&amp;action=diff&amp;pageid=90&amp;num=2
+// いまかくづき先輩が管理者だけど動かないって自分で宣言してる状態かつヒラタケが忙しくてかっしー鯖にかまってられない状況下で方針に従うと管理部を編集できるのは自分だけ
+// 戻しておきますよ
+//* 2016/01/19 mine_book000
+//* 顔をuuidに変更。
+//* これにより名前変更時に顔urlを変更する必要がなくなった
+//
+//* 2015/10/07 mine_book000
+//* Skypeで連絡先追加するリンクを設定
+//* http://mc.4096.xyz/s.php?id=[id]
+//
+//&amp;size(48){ストライキ宣言2.0}
+//&amp;size(30){メンヘラスタップごときがなぜ運営体制決めてるのか？？？管理人は何のためにいるのか？？？？？}
+//&amp;size(12){ストライキ宣言}
+//&amp;size(9){我々スタッフ一同はサーバー管理者の独断，傍若無人さにも耐え仕事をし続けたがもう限界である。我々はこの独断運営に怒りと抗議の意を込め，現時点からストライキを敢行することをここに宣言するものである。}
+//----
+//-X4Z
+//-afuafu
+//-takeyari
+
+*連絡先
+- 2016/4/1 現在
+#contents()
+//&gt;意見，要望等は&amp;bold(){&amp;color(red){管理人ではなく}}スタッフにお問い合わせください。
+//&gt;管理人は問い合わせにお答えすることが&amp;bold(){&amp;color(red){できません。}}
+//&gt;2016/01/28 mine_book000
+//かくづき先輩に問い合わせたところこっち(かくづき先輩)に要望とか送らないような対応を頼むってことを言われたので
+//変更はご遠慮くださいす
+** 管理部
+- 備考：スタップはモデレーターのこと
+- Skypeのリンクを押すとそのユーザをアプリで表示します。
+|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~ひとこと|
+|CENTER:&amp;image(https://crafatar.com/avatars/5799296a-d1ec-4252-93bd-440bb9caa65c,width=32,height=32)|砂利|X4Z|&amp;color(#c00000){管理人}|[[@XYZ4096&gt;http://twitter.com/XYZ4096]]|[[xyz4096 (PC)&gt;http://mc.4096.xyz/s.php?id=xyz4096]]&amp;br()[[lncongruence (スマフォ)&gt;http://mc.4096.xyz/s.php?id=lncongruence]]|[[X4Z&gt;http://steamcommunity.com/id/X4Z]]||
+|CENTER:&amp;image(https://crafatar.com/avatars/22ab15d6-2e88-4fdd-91c0-e459f0f804f8,width=32,height=32)|さすけ|HA83|&amp;color(#c00000){副管理人}|[[@sasukeRX&gt;https://twitter.com/sasukeRX]]|[[sasukerx&gt;http://mc.4096.xyz/s.php?id=sasukerx]]|[[sasukeRX&gt;http://steamcommunity.com/id/sasukeRX/]]|人生辞めたい|
+|CENTER:&amp;image(https://crafatar.com/avatars/39cf878b-ef0b-44fc-a2c6-de3d540a4728,width=32,height=32)|ヒラタケ|Hirotaisou2012|&amp;color(#C06000){スタッフ}|[[@Hirotaisou2012&gt;http://twitter.com/Hirotaisou2012]]|[[hiratake73&gt;http://mc.4096.xyz/s.php?id=hiratake73]]|[[Hirotaisou2012&gt;http://steamcommunity.com/id/Hirotaisou2012]]|多忙|
+|CENTER:&amp;image(https://crafatar.com/avatars/32ff7cdc-a1b4-450a-aa7e-6af75fe8c37c,width=32,height=32)|とまちー|mine_book000|&amp;color(#C06000){スタッフ}|[[@book000&gt;https://twitter.com/book000]]|[[ipad2ne(PC)&gt;http://mc.4096.xyz/s.php?id=ipad2ne]]&amp;br()[[tomachi_2(端末)&gt;http://mc.4096.xyz/s.php?id=tomachi_2]]&amp;br()[[tomachi_3(iPad，Webなど)&gt;http://mc.4096.xyz/s.php?id=tomachi_3]]|[[book000&gt;http://steamcommunity.com/id/book000/]]|もう少ししたら浮上率落ちます。/気分悪いです。|
+|CENTER:&amp;image(https://crafatar.com/avatars/0bdc0219-f3c3-4d73-a4df-1d8bd088f419,width=32,height=32)|じょじょ|X5Z|&amp;color(#C0C000){スタップ}|[[@tkboostx&gt;https://twitter.com/tkboostx]]|[[jojo_3926&gt;http://mc.4096.xyz/s.php?id=jojo_3926]]|[[jojotkgmodoki&gt;http://steamcommunity.com//profiles/76561198190922445]]|中学生になりました。今年度もよろしくおねがいします。|
+|CENTER:&amp;image(https://crafatar.com/avatars/98df6b93-2bc4-457d-b79e-de05a9d4f132,width=32,height=32)|おすし|X6Z|&amp;color(#C0C000){スタップ}||[[hiroto_osushi&gt;http://mc.4096.xyz/s.php?id=hiroto_osushi]]||くちすならもにぱわー|
+|CENTER:&amp;image(https://crafatar.com/avatars/7008531a-539b-4dfc-8b81-7b267d18dd0a,width=32,height=32)|オムレツ|Future_style|&amp;color(#C0C000){スタップ}|[[@_O602&gt;http://twitter.com/_O602]]|[[omuretu334 (PC)&gt;http://minesever.kassi-hp.info/s.php?id=omuretu334]]&amp;br()[[takumi_omuretu (スマフォ)&gt;http://mc.4096.xyz/s.php?id=takumi_omuretu]]|[[O602&gt;http://steamcommunity.com/id/O602/]]||
+
+//|CENTER:&amp;image(https://crafatar.com/avatars/c6f2f6d3-5a7d-45cd-a16a-52e4d4e2ceb2,width=32,height=32)|かっしーあっと|kassi0123||[[@kassi_0123&gt;http://twitter.com/ka7sak1]]|[[kassi_0123 (PC)&gt;http://mc.4096.xyz/s.php?id=kassi_0123]]&amp;br()[[kassi_0123-2 (スマフォ)&gt;http://mc.4096.xyz/s.php?id=kassi_0123-2]]|[[kassiat&gt;http://steamcommunity.com/id/kassiat/]]|だんだん飽きてきた|
+//|CENTER:&amp;image(https://crafatar.com/avatars/kqkv_,width=32,height=32)|かくづき|kqkv_||||||
+
+** [[宣伝部&gt;コミュニティ/宣伝部]]
+*** 備考
+- 自由に人数を増減できる権限などを会長と部長は持つ
+//- 現在運用停止中
+|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~ひとこと|
+|CENTER:&amp;image(https://crafatar.com/avatars/32ff7cdc-a1b4-450a-aa7e-6af75fe8c37c,width=32,height=32)|とまちー|mine_book000|部長|[[@book000&gt;https://twitter.com/book000]]|[[ipad2ne(PC)&gt;http://mc.4096.xyz/s.php?id=ipad2ne]]&amp;br()[[tomachi_2(端末)&gt;http://mc.4096.xyz/s.php?id=tomachi_2]]&amp;br()[[tomachi_3(iPad，Webなど)&gt;http://mc.4096.xyz/s.php?id=tomachi_3]]|[[book000&gt;http://steamcommunity.com/id/book000/]]||
+|CENTER:&amp;image(https://crafatar.com/avatars/39cf878b-ef0b-44fc-a2c6-de3d540a4728,width=32,height=32)|ヒラタケ|Hirotaisou2012|副部長|[[@Hirotaisou2012&gt;http://twitter.com/Hirotaisou2012]]|[[hiratake73&gt;http://mc.4096.xyz/s.php?id=hiratake73]]|[[Hirotaisou2012&gt;http://steamcommunity.com/id/Hirotaisou2012]]||
+
+** [[Project Aikotoba v2&gt;プラグイン/Pin_Code_Authentication]]
+プロジェクトは成功を収め，有終の美を飾りました。
+//|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|
+//|CENTER:&amp;image(https://crafatar.com/avatars/c6f2f6d3-5a7d-45cd-a16a-52e4d4e2ceb2,width=32,height=32)|かっしーあっと|kassi0123|全体指揮|[[@kassi_0123&gt;http://twitter.com/ka7sak1]]|[[kassi_0123 (PC)&gt;http://mc.4096.xyz/s.php?id=kassi_0123]]&amp;br()[[kassi_0123-2 (スマフォ)&gt;http://mc.4096.xyz/s.php?id=kassi_0123-2]]|[[kassiat&gt;http://steamcommunity.com/id/kassiat/]]|
+//|CENTER:&amp;image(https://crafatar.com/avatars/5799296a-d1ec-4252-93bd-440bb9caa65c,width=32,height=32)|砂利|X4Z|権限設定など|[[@XYZ4096&gt;http://twitter.com/XYZ4096]]|[[xyz4096 (PC)&gt;http://mc.4096.xyz/s.php?id=xyz4096]]&amp;br()[[lncongruence (スマフォ)&gt;http://mc.4096.xyz/s.php?id=lncongruence]]|[[X4Z&gt;http://steamcommunity.com/id/X4Z]]|
+//|CENTER:&amp;image(https://crafatar.com/avatars/39cf878b-ef0b-44fc-a2c6-de3d540a4728,width=32,height=32)|ヒラタケ|Hirotaisou2012|PCAWeb(PINコード発行ページ)デザイン作成|[[@Hirotaisou2012&gt;http://twitter.com/Hirotaisou2012]]|[[hiratake73&gt;http://mc.4096.xyz/s.php?id=hiratake73]]|[[Hirotaisou2012&gt;http://steamcommunity.com/id/Hirotaisou2012]]|
+//|CENTER:&amp;image(https://crafatar.com/avatars/32ff7cdc-a1b4-450a-aa7e-6af75fe8c37c,width=32,height=32)|とまちー|mine_book000|PCAWeb(PINコード発行ページ)サーバー側システム作成&amp;br()PCA(PINコード認証プラグイン)作成|[[@book000&gt;https://twitter.com/book000]]|[[ipad2ne(PC)&gt;http://mc.4096.xyz/s.php?id=ipad2ne]]&amp;br()[[tomachi_2(端末)&gt;http://mc.4096.xyz/s.php?id=tomachi_2]]&amp;br()[[tomachi_3(iPad，Webなど)&gt;http://mc.4096.xyz/s.php?id=tomachi_3]]|[[book000&gt;http://steamcommunity.com/id/book000/]]|
+
+** [[音楽部&gt;コミュニティ/音楽部]]
+|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~ひとこと|
+|CENTER:&amp;image(https://crafatar.com/avatars/0bdc0219-f3c3-4d73-a4df-1d8bd088f419,width=32,height=32)|じょじょ|X5Z|部長|[[@tkboostx&gt;https://twitter.com/tkboostx]]|[[jojo_3926&gt;http://mc.4096.xyz/s.php?id=jojo_3926]]|[[jojotkgmodoki&gt;http://steamcommunity.com//profiles/7656119]]||
+
+** [[交通部&gt;コミュニティ/交通部]]
+|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~備考|
+|CENTER:&amp;image(https://minotar.net/helm/Future_Style,width=32,height=32)|オムレツ|Future_Style|~部長|[[@_O602&gt;http://twitter.com/_O602]]|[[omuretu334 (PC)&gt;http://minesever.kassi-hp.info/s.php?id=omuretu334]]&amp;br()[[takumi_omuretu (スマフォ)&gt;http://mc.4096.xyz/s.php?id=takumi_omuretu]]|[[O602&gt;http://steamcommunity.com/id/O602/]]|受験生（2/29復帰）|
+|CENTER:&amp;image(https://minotar.net/helm/X6Z,width=32,height=32)|おすし|X6Z|~平社員||[[Hiroto_osushi&gt;https://join.skype.com/launch/SMnYWwEAAAAxOTo0MDM1MjlhZTgxMTg0YzMwOWM1M2IxYTZkYTk3MjE5Y0B0aHJlYWQuc2t5cGU]]|||
+----
+
+** その他
+- 管理部，宣伝部については管理上の理由により，モデレーター権限を所有出来ます。
+&gt;管理部はサーバー管理を行うため，宣伝部はPCAプラグイン製作者が関係していて，管理を行うためです。
+- 音楽部，交通部については原則常連権限で活動します。場合によってモデレーター権限になります。
+- 新しい部を作る場合は本当に必要かどうかを考えて下さい。作る前にスタッフ(管理人，副管理人，スタップを含む)に確認を取ってください。
+- スタッフ，スタップへの決定は&amp;bold(){管理人(管理人が行えない場合は副管理人，スタッフ，スタップの順で)}の独断と偏見で行います。

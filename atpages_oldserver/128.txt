@@ -1,0 +1,51 @@
+// 
+// 2016/02/26「 、」を「，」に置き換え - mine_book000
+// 
+&amp;bold(){ただいま新入部員募集中！}
+*おしらせ
+**最新のお知らせ
+
+2/29:
+-本日より活動を再開します。
+
+**過去のお知らせ
+#region
+
+- 01/21:活動再開は2/29を予定しています。
+- 12/11:X6Zクンが入りました
+- 11/29:（ ﾟoﾟ） &lt;ｷｬｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱｱwwwwwwwwwwwwwwwｱｱｱｱｱｱｱ
+- 11/08:創部しました。
+
+#endregion
+*交通部とは
+-kassi-hp.tk Minecraft Server内で交通インフラなどを整備する部活動です。
+#contents
+----
+**主な活動
+***鉄道
+-鉄道敷設などのお手伝い
+
+***道路
+-道路整備などのお手伝い
+----
+**主な活動実績
+-（創部したばっかなので）ないです。
+----
+*部員
+|CENTER:~スキン|CENTER:~ハンドルネーム|CENTER:~プレイヤーID|CENTER:~役職|CENTER:~Twitter|CENTER:~Skype|CENTER:~Steam|CENTER:~備考|
+|CENTER:&amp;image(https://minotar.net/helm/Future_Style,width=32,height=32)|オムレツ|Future_Style|~部長|[[@_O602&gt;http://twitter.com/_O602]]|[[omuretu334 (PC)&gt;http://minesever.kassi-hp.info/s.php?id=omuretu334]]&amp;br()[[takumi_omuretu (スマフォ)&gt;http://mc.4096.xyz/s.php?id=takumi_omuretu]]|[[O602&gt;http://steamcommunity.com/id/O602/]]|受験生（2/29復帰）|
+|CENTER:&amp;image(https://minotar.net/helm/X6Z,width=32,height=32)|おすし|X6Z|~平社員||[[Hiroto_osushi&gt;https://join.skype.com/launch/SMnYWwEAAAAxOTo0MDM1MjlhZTgxMTg0YzMwOWM1M2IxYTZkYTk3MjE5Y0B0aHJlYWQuc2t5cGU]]|||
+#hr(width=80%)
+**入部方法
+部長がサーバーにいるときに口頭で言うか，上記連絡先にご連絡ください。
+----
+** その他
+- 交通部はモデレーター権限を原則持つことは出来ません(多分)
+//そうだよね？必要ないものね？
+----
+* 履歴
+|CENTER:~日時|CENTER:~内容|CENTER:~編集者|
+|CENTER:2015/11/08 17:09|CENTER:創部|CENTER:Future_Style|
+|CENTER:2015/12/11 07:00|CENTER:部員追加|CENTER:X6Z(Osushi_)|
+----
+- http://www60.atwiki.jp/kassimine/pages/19.html (リンク切れとか更新してくり)

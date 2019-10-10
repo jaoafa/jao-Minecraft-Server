@@ -1,0 +1,49 @@
+#image(http://i.imgur.com/4WluwNl.png,center)
+----
+2016/04/04 20:40:56を持ちまして、当サーバーは営業を終了いたしました。
+当サーバーにご参加いただいた方々、本当に本当にありがとうございました。
+----
+* kassi-hp.tk MinecraftSever @ wikiへようこそ！
+** Welcome to &quot;kassi-hp.tk MinecraftSever @ wiki&quot;.
+&gt;Sorry This page and server is Japanese Only.
+&amp;color(#c0c0c0){うぇるかむ とぅ かっしー はいふん えぃちぴー どっと てぃーけー まいんくらふと せぇばー あっと うぃき}
+//つぅ ってなんですの...
+//toを日本語読みしたときになんて書けばいいのか数分考えてこうなりました
+//「とぅ」のほうが断然よかったです...
+//変えましたよ…
+&amp;random_img(http://imgur.com/BVcfVph.png,http://imgur.com/BVcfVph.png,http://imgur.com/m14aePm.png,http://imgur.com/s5Ibtii.png,http://imgur.com/lT1ZlsF.png,http://imgur.com/jrG8nUN.png,http://imgur.com/XGduqUw.png,http://imgur.com/Xn3dqrb.png,http://imgur.com/ZJyViDn.png,http://imgur.com/TEgtZWE.png,http://imgur.com/6NGQeDE.png,http://imgur.com/hECleQ1.png,http://imgur.com/lJ0BfUB.png,http://imgur.com/6bQoSJO.png,http://imgur.com/LpE2k1F.png,http://imgur.com/8zFLhkj.png,http://imgur.com/Bgm5267.png,http://imgur.com/Kv6xo7O.png,http://imgur.com/Oi0jqNb.png)
+//&amp;random_img(http://yutori.boo.jp/mine/top001.png,http://yutori.boo.jp/mine/top002.png,http://yutori.boo.jp/mine/top003.png,http://yutori.boo.jp/mine/top004.png,http://yutori.boo.jp/mine/top005.png,http://yutori.boo.jp/mine/top006.png,http://yutori.boo.jp/mine/top007.png,http://yutori.boo.jp/mine/top008.png,http://yutori.boo.jp/mine/top009.png,http://yutori.boo.jp/mine/top010.png,http://yutori.boo.jp/mine/top011.png,http://yutori.boo.jp/mine/top012.png,http://yutori.boo.jp/mine/top013.png,http://yutori.boo.jp/mine/top014.png)
+//&amp;random_img(http://i.imgur.com/WsKhqQA.png,http://puu.sh/gfYS9/b6b4c986d4.png,http://puu.sh/gfYUr/b5bfc1a084.png,http://puu.sh/gfYVc/d6755c3fc2.png,http://puu.sh/gfYWG/8343e78cb2.png,http://puu.sh/gfZ3D/8d40d7a778.png)
+// http://puu.sh/gKQFZ/aeb99bda46.png
+//http://imgur.com/qdtT9th.png,
+kassi-hp.tk MinecraftSeverは，他にはない独特の世界観を持ったプレイヤー達が，他にはない独特の世界観の町を作っていく，不思議なクリエイティブサーバーです。
+----
+** 警告
+- &amp;font(200%,red){少なくとも[[ルール]]と[[初めての方へ]]は必ず読んでください。}
+- 初めての方への各種注意事項は[[初めての方へ]]におおよそ書いてあります。
+----
+#contents()
+----
+** [[お知らせ&gt;トップページ/お知らせ]]
+#include(トップページ/お知らせ)
+----
+** サーバー仕様
+- Conoha VPS 4GBプラン
+&amp;include(全てのプラグイン)
+----
+*** サーバーの状態
+#image(http://mc.4096.xyz/server/line.jpg,http://tomachi.webcrow.jp/kassi-hp/javascript/player.php)
+&gt;1行目:ONLINE/OFFLINE
+&gt;2行目:ONLINEなら前回サーバーが停止したときの時刻
+&gt;OFFLINEなら前回サーバーが起動した時刻
+&gt;3行目:ONLINEなら前回サーバーが起動した時刻からサーバーが停止したときの時刻までの差
+&gt;OFFLINEなら前回サーバーが停止した時刻からサーバーが起動したときの時刻までの差
+&gt;4行目:この画像を生成した時刻
+#image(http://minesever.kassi-hp.info/server/load_average.jpg)
+&amp;image(https://minecraft.jp/servers/53ddb7ee4ddda12b670041a7/banner/1/560x95.png,https://minecraft.jp/servers/53ddb7ee4ddda12b670041a7)
+&amp;image(http://mcjsl.seykun.com/banner/41/600x100/1,http://mcjsl.seykun.com/server/41)
+----
+** 各ページ
+|&gt;|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/jOD0Pk4.png)&amp;br()&amp;size(18){[[ルール]]}&amp;br()当鯖のルールです。&amp;br()せめてこれだけは&amp;br()読んでおいてください。|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/VNpzMFu.png)&amp;br()&amp;size(18){[[禁止事項&gt;ルール#id_5ac7f783]]}&amp;br()ルール内にある&amp;br()禁止事項です。|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/qvyiaYB.png)&amp;br()&amp;size(18){[[各国市町村]]}&amp;br()国、市、町にある&amp;br()個別ページがリスト化&amp;br()されているページです。|
+|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/AftATBr.png)&amp;br()&amp;size(18){[[よくある質問]]}&amp;br()当鯖に寄せられる&amp;br()よくある質問を&amp;br()まとめました。|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/WVte1uU.png)&amp;br()&amp;size(18){[[プラグイン]]}&amp;br()当鯖に導入されている&amp;br()もしくは導入&amp;br()されていたプラグインの&amp;br()説明ページです。|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/AaRPZAr.png)&amp;br()&amp;size(18){[[Dynmap&gt;http://minesever.kassi-hp.info:8123/]]}&amp;br()当鯖のMapです。|BGCOLOR(#404040):COLOR(#FFFFFF):CENTER:&amp;ref(http://i.imgur.com/3GrQwCA.png)&amp;br()&amp;size(18){[[コミュニティ]]}&amp;br()当鯖からできた、&amp;br()いわゆる「内輪ネタ」の&amp;br()フロントページです。|
+//すごくこの感じ大好き

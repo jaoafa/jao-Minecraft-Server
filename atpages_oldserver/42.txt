@@ -1,0 +1,28 @@
+* 3分34秒でわかるNihongoMOD導入方法
+※当社比べ
+** 目次
+#contents()
+** はじめに
+- Minecraftを閉じておきましょう
+- 前提ModであるForgeの導入解説は[[modとか/Forge導入]]にあります
+- 1.6.4までの対応なので1.6.4以降は[[IntelliInput&gt;modとか/IntelliInput導入]]などの1.6.4以降対応のmodを導入してください
+- なお解説は1.6.4Forge導入環境を前提としています
+** 1
+#image(http://puu.sh/cir9i/f939c173f2.png,width=630,height=406)
+- 左下のEdit Profileを選択
+#image(http://puu.sh/ciraX/43023142f5.png)
+- 出てきたなにやらどこかで見たことある画面の右下にあるOpen Game Dirを選択
+** 2
+#image(http://puu.sh/cireP/84f308270f.png)
+- エクスプローラーが立ち上がるのでmodsフォルダを開く
+#image(http://puu.sh/ciriQ/48aa35b608.jpg,width=630,height=406)
+- 空になっていることを確認したら
+#image(http://puu.sh/cirM8/c6d323a328.png)
+- [[NihongoMOD&gt;http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=6279#p51067]]の配布ページから
+- NihongoMod v1.2.8を選択しDL
+** 3
+#image(http://puu.sh/cirXg/572dc8b2c2.png)
+- 2でDLしたjarファイルをそのままmodsフォルダに入れます
+** 4
+#image(http://puu.sh/cis5I/dd3379d733.jpg)
+- Minecraft(1.6.4Forge)を起動してマルチサーバーなどに入りTキーなどを押して上の画面が出てくれば導入成功です

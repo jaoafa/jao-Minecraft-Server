@@ -1,0 +1,8 @@
+*Modifyworld
+Modifyworldはワールドの保護を行います。
+バニラのMinecraftで行える一定の動作を，PermissionExで制限/許可できるようにするプラグインです。
+
+当サーバーは，このプラグインを使い，新規プレイヤーの行動を制限しています。
+***Link
+[[Bukkit Modifyworldページ&gt;http://dev.bukkit.org/bukkit-plugins/modifyworld/]]
+[[PermissionEx紹介ページ&gt;サーバーMOD/PermissionsEx]]

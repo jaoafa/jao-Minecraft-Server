@@ -1,0 +1,378 @@
+- minecraft.jpのクローラーip
+ 122.103.99.18
+ 
+ (分かり次第追記)
+
+- かっしー鯖の開設日はいつなのか
+ 身内向けで初稼働した日が2014/4/28
+ フラットじゃなくなっていまのワールドになったのが2014/5/6
+ 開放し始めたのが2014/7頃
+ minecraft.jp登録が2014/8/3
+
+-歴史書 [重要].txt
+ 初稼働：2014/04/28 23:28:29(？)
+ 
+ 2014-04-28 23:28:29 [INFO] Starting minecraft server version 1.6.1
+ 2014-04-28 23:28:29 [WARNING] To start the server with more ram, launch it as &quot;java -Xmx1024M -Xms1024M -jar minecraft_server.jar&quot;
+ 2014-04-28 23:28:29 [INFO] Loading properties
+ 2014-04-28 23:28:29 [WARNING] server.properties does not exist
+ 2014-04-28 23:28:29 [INFO] Generating new properties file
+ 2014-04-28 23:28:29 [INFO] Default game type: SURVIVAL
+ 2014-04-28 23:28:29 [INFO] Generating keypair
+ 2014-04-28 23:28:29 [INFO] Starting Minecraft server on *:25565
+ 2014-04-28 23:28:29 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (指定されたファイルが見つかりません。)
+ 2014-04-28 23:28:29 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (指定されたファイルが見つかりません。)
+ 2014-04-28 23:28:29 [INFO] Preparing level &quot;world&quot;
+ 2014-04-28 23:28:29 [WARNING] Unable to find spawn biome
+ 2014-04-28 23:28:30 [INFO] Preparing start region for level 0
+ 2014-04-28 23:28:31 [INFO] Preparing spawn area: 19%
+ 2014-04-28 23:28:32 [INFO] Preparing spawn area: 38%
+ 2014-04-28 23:28:33 [INFO] Preparing spawn area: 58%
+ 2014-04-28 23:28:34 [INFO] Preparing spawn area: 75%
+ 2014-04-28 23:28:35 [INFO] Preparing spawn area: 91%
+ 2014-04-28 23:28:35 [INFO] Done (5.945s)! For help, type &quot;help&quot; or &quot;?&quot;
+ 2014-04-28 23:31:51 [SEVERE] Reached end of stream for /25.104.203.209
+ 2014-04-28 23:32:34 [INFO] Stopping server
+ 2014-04-28 23:32:34 [INFO] Saving players
+ 2014-04-28 23:32:34 [INFO] Saving worlds
+ 2014-04-28 23:32:34 [INFO] Closing listening thread
+ 2014-04-28 23:32:34 [INFO] Saving chunks for level &#039;world&#039;/Overworld
+ 2014-04-28 23:32:34 [INFO] Saving chunks for level &#039;world&#039;/Nether
+ 2014-04-28 23:32:34 [INFO] Saving chunks for level &#039;world&#039;/The End
+ 2014-04-28 23:32:34 [INFO] Stopping server
+ 
+ 初入室
+ 2014-04-28 23:36:00 [INFO] kassi_0123[/25.104.203.209:52353] logged in with entity id 2 at (-19.5, 63.0, -16.5)
+ 
+ クリエ化
+ 2014-04-28 23:37:47
+ 
+ 鎧武氏初入室
+ 2014-04-28 23:51:43 [INFO] gaim_shounen430[/25.125.182.149:51740] logged in with entity id 16 at (1.5, 237.0, -1.5)
+ 
+ はやたか氏初入室
+ 2014-04-28 23:53:36 [INFO] hayataka[/25.82.122.181:50819] logged in with entity id 24741 at (-4.5, 237.0, -5.5)
+ 
+ かくづき初入室
+ 2014-04-29 03:24:41 [INFO] kakuduki[/25.80.141.23:57316] logged in with entity id 56 at (5.5, 237.0, 2.5)
+ 
+ Seed値
+ 2014-05-04 18:08:31 [INFO] Seed: 2681160766701872347
+ 
+ Hamachiなしでも入れるようになった時刻？
+ 2014-05-05 23:27:53 [INFO] Starting minecraft server version 1.5.2
+ 
+ しな初入室
+ 2014-05-06 16:16:26 [INFO] kouga1803[/25.33.189.104:52508] logged in with entity id 794226 at (-3.5, 232.0, 6.5)
+ 
+ 初エラー落ち
+ 2014-05-06 16:38:27 [WARNING] Failed to handle packet for kouga1803/25.33.189.104: u: Exception getting block type in world
+ u: Exception getting block type in world
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Caused by: java.lang.OutOfMemoryError: Java heap space
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2014-05-06 16:38:28 [WARNING] Can&#039;t keep up! Did the system time change, or is the server overloaded?
+ 2014-05-06 16:38:30 [SEVERE] Encountered an unexpected exception ArrayIndexOutOfBoundsException
+ java.lang.ArrayIndexOutOfBoundsException: -5
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2014-05-06 16:38:31 [SEVERE] Could not save crash report to .\crash-reports\crash-2014-05-06_16.38.30-server.txt
+ java.lang.OutOfMemoryError: Java heap space
+ 2014-05-06 16:38:31 [SEVERE] We were unable to save this crash report to disk.
+ 
+ フラットじゃなくなった日
+ 2014-05-06 17:08:27
+ 
+ 飛行艇が鎧武氏によって製作開始された時間
+ 2014-05-10 22:10:31
+ 
+ かくづき町設立
+ 2014/5/11頃
+ 
+ HayatakaTown(初代)設立
+ 2014/5/13？
+ 
+ 本町タワー完成
+ 2014-05-14 20:51:57
+ 
+ 2014/05/18 ～ 6/28 ログ見当たらない
+ その間
+ ・5/29 Hamachiなし？
+ 
+ 7/16 ～ 7/20 ログなし
+ 
+ ヒラタケ初見
+ 2014-07-20 23:21:39 [INFO] Hirotaisou2012[/118.236.6.42:49742] logged in with entity id 873 at (-130.5, 68.0, 283.5)
+ 
+ ひろろ初見
+ 2014-07-20 23:22:18 [INFO] gurei_sia[/126.62.148.52:56262] logged in with entity id 3767 at (-126.5, 71.0, 286.5)
+ 
+ .連投
+ 2014-07-20 23:50:54 [INFO] &lt;XYZ_32&gt; ./
+ 2014-07-20 23:51:04 [INFO] &lt;kassi_0123&gt; ./
+ 2014-07-20 23:51:12 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:12 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:12 [INFO] &lt;kassi_0123&gt; ./
+ 2014-07-20 23:51:12 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:13 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:13 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:13 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:14 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:14 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:16 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:16 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:17 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:17 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:17 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:17 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:18 [INFO] &lt;kasaiyuuki&gt; .
+ 2014-07-20 23:51:18 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:19 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:19 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:19 [INFO] &lt;XYZ_32&gt; .
+ 2014-07-20 23:51:21 [INFO] &lt;kasaiyuuki&gt; .
+ 2014-07-20 23:51:23 [INFO] &lt;kasaiyuuki&gt; .
+ 2014-07-20 23:51:23 [INFO] XYZ_32[/221.59.205.128:50409] logged in with entity id 108805 at (287.3153708066883, 80.74420895843512, 105.95718070185995)
+ 2014-07-20 23:51:31 [INFO] &lt;XYZ_32&gt; &gt; disconnect.spam &lt;
+ 
+ あさがや初入室
+ 2014-07-22 17:51:00 [INFO] Asagaya[/114.17.189.42:51218] logged in with entity id 386236 at (116.39967114360255, 64.0, 248.14514208904927)
+ 
+ ヒラタケ町 設立
+ 2014-07-22 21:47:18
+ 
+ 砂利町設立？
+ 2014-07-22 22:42:55
+ 
+ あさがや路線図最初の完成
+ 2014-07-22 23:50:56 [INFO] &lt;Asagaya&gt; 路線図どうぞ
+ 2014-07-22 23:50:57 [INFO] &lt;Asagaya&gt; https://onedrive.live.com/?cid=532ACA9839FFBFFD&amp;id=532ACA9839FFBFFD%21979
+ 2014-07-22 23:51:33 [INFO] &lt;XYZ_32&gt; 問題が発生しました。もう一度やり直すか，ページを更新してください。
+ 2014-07-22 23:51:42 [INFO] &lt;Asagaya&gt; クッソ
+ 2014-07-22 23:51:59 [INFO] &lt;Asagaya&gt; https://onedrive.live.com/?cid=532ACA9839FFBFFD&amp;id=532ACA9839FFBFFD%21980
+ 
+ あさがや、駅名を変え始める
+ 2014-07-23 00:18:08 [INFO] &lt;Asagaya&gt; じゃあ駅名変えて生きます
+ 
+ エンダー先輩初
+ 2014-07-25 00:38:04 [INFO] karzma[/180.9.208.162:64818] logged in with entity id 994998 at (113.5, 64.0, 252.5)
+ 
+ コマンドブロック使われ始める
+ 2014/7/25
+ 
+ 赤石村？
+ 2014-07-26 12:27:37 [INFO] &lt;XYZ_32&gt; そのうち赤石タウンとか呼ばれそう
+ 
+ 砂利口
+ 2014-07-26 14:57:31 [INFO] &lt;kassi_0123&gt; Q.ここはなんの地帯ですかね
+ 2014-07-26 14:57:42 [INFO] &lt;XYZ_32&gt; A. MUSIC AND FOREST MOUNTAIN
+ 2014-07-26 14:59:37 [INFO] [@: Set the time to 0]
+ 2014-07-26 14:59:39 [INFO] [@: Toggled downfall]
+ 2014-07-26 14:59:43 [INFO] [@: Toggled downfall]
+ 2014-07-26 15:00:23 [INFO] &lt;kassi_0123&gt; 意外とここ農場に近いから草生える
+ 2014-07-26 15:06:02 [INFO] &lt;kassi_0123&gt; 勝手に線路を伸ばすというｗ
+ 
+ ヒラタケジェットコースター
+ 2014-07-26 15:45:54 [INFO] &lt;kassi_0123&gt; なにこの処刑装置
+ 2014-07-26 15:46:08 [INFO] &lt;Hirotaisou2012&gt; しーらない
+ 2014-07-26 15:49:48 [INFO] &lt;kassi_0123&gt; 高低差やばいジェットコースターやな
+ 2014-07-26 15:50:07 [INFO] &lt;Hirotaisou2012&gt; 友達が前にマイクラで作ってたジェットコースターを参考に作ってます
+ 2014-07-26 15:50:15 [INFO] &lt;kassi_0123&gt; hou
+ 2014-07-26 15:50:17 [INFO] &lt;Hirotaisou2012&gt; あれはもっとヤバかった
+ 2014-07-26 15:50:47 [INFO] &lt;Hirotaisou2012&gt; スタートからゴールまで5分くらいあったし
+ 2014-07-26 15:50:56 [INFO] &lt;Hirotaisou2012&gt; 景色も良かった
+ 2014-07-26 15:50:56 [INFO] &lt;kassi_0123&gt; ほうｗ
+ 2014-07-26 15:54:13 [INFO] &lt;Hirotaisou2012&gt; あー
+ 2014-07-26 15:55:01 [INFO] &lt;Hirotaisou2012&gt; 良い実験台になってくれたよ…
+ 2014-07-26 15:55:03 [INFO] &lt;kassi_0123&gt; いつからクモ処刑装置になったのか
+ 2014-07-26 15:55:11 [INFO] &lt;Hirotaisou2012&gt; 勝手に乗って行ったんですわ…
+ 
+ みーしゃ氏初
+ 2014-07-26 23:15:01 [INFO] miki3254[/115.38.242.105:58784] logged in with entity id 1455674 at (121.5, 89.0, 254.5)
+ 
+ 
+ 最初のチャット欄荒らし
+ 2014-07-30
+ 
+ /tp @r @r
+ 2014-07-31 22:20:34 [INFO] [@: Teleported Hirotaisou2012 to kassi_0123]
+ 
+ minecraft.jp経由初訪問者
+ 2014-08-03 14:43:54 [INFO] taka10822[/126.28.135.10:62857] logged in with entity id 176423 at (115.5, 76.0, 250.5)
+ 
+ 86時代の始まり
+ 2014-08-04 22:41:11 [INFO] yuuto[/122.30.134.121:49664] logged in with entity id 1726176 at (121.5, 89.0, 252.5)
+ 
+ 案内所初
+ 2014/8/5
+ 
+ 野々村装置
+ 2014-08-05 14:06:21
+ 
+ 砂利アイコン(鯖初ドット絵)
+ 2014-08-06 16:40:05 [INFO] &lt;kassi0123&gt; でた砂利アイコン
+ 2014-08-06 16:40:15 [INFO] &lt;XYZ_32&gt; 巷で噂の
+ 2014-08-06 16:40:15 [INFO] &lt;XYZ_32&gt; .
+ 
+ その時歴史が動いた(jao語)
+ 2014-08-11 15:01:14 [INFO] Hirotaisou2012[/118.236.6.42:51848] logged in with entity id 1835 at (-210.68125049565748, 116.5, 175.47514950292756)
+ 2014-08-11 15:01:17 [INFO] &lt;Hirotaisou2012&gt; jao
+ 2014-08-11 15:01:21 [INFO] &lt;Hirotaisou2012&gt; afa
+ 2014-08-11 15:01:22 [INFO] &lt;XYZ_32&gt; jao
+ 2014-08-11 15:01:24 [INFO] &lt;XYZ_32&gt; afa
+ 2014-08-11 15:01:26 [INFO] &lt;Hirotaisou2012&gt; 誤字
+ 2014-08-11 15:01:27 [INFO] &lt;Hirotaisou2012&gt; hai
+ 2014-08-11 15:01:31 [INFO] &lt;kassi0123&gt; jao
+ 2014-08-11 15:01:34 [INFO] &lt;kassi0123&gt; afa
+ 2014-08-11 15:01:38 [INFO] &lt;XYZ_32&gt; j a o
+ 2014-08-11 15:01:40 [INFO] &lt;XYZ_32&gt; jao
+ 2014-08-11 15:01:46 [INFO] &lt;Hirotaisou2012&gt; jiwa
+ 2014-08-11 15:01:51 [INFO] [XYZ_32: Given Stone (ID 1) * 1 to XYZ_32]
+ 2014-08-11 15:01:55 [INFO] [XYZ_32: Given Command Block (ID 137) * 1 to XYZ_32]
+ 2014-08-11 15:02:06 [INFO] [kassi0123: Cleared the inventory of XYZ_32, removing 8 items]
+ 2014-08-11 15:02:13 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-11 15:02:15 [INFO] [XYZ_32: Given Command Block (ID 137) * 1 to XYZ_32]
+ 2014-08-11 15:03:05 [INFO] [@] jao
+ 2014-08-11 15:03:12 [INFO] &lt;Hirotaisou2012&gt; あの
+ 2014-08-11 15:03:45 [INFO] &lt;Hirotaisou2012&gt; 右手の位置が一個ずれてただけやないですか…許してくださいよお…
+ 2014-08-11 15:04:12 [INFO] [@] jao
+ 2014-08-11 15:04:12 [INFO] [@] afa
+ 2014-08-11 15:05:14 [INFO] &lt;XYZ_32&gt; ツイッタラー流行語大賞で
+ 2014-08-11 15:05:25 [INFO] &lt;Hirotaisou2012&gt; jao
+ 2014-08-11 15:05:30 [INFO] &lt;XYZ_32&gt; afa
+ 2014-08-11 15:05:54 [INFO] &lt;Hirotaisou2012&gt; afaは焦ってキーボード叩いたら勝手に出てきたからしらんて
+ 2014-08-11 15:05:59 [INFO] &lt;kassi0123&gt; リスポーン地点にその発言装置置こう(提案)
+ 2014-08-11 15:06:06 [INFO] &lt;Hirotaisou2012&gt; あのあのあの
+ 2014-08-11 15:06:37 [INFO] &lt;kassi0123&gt; まだあの議事堂近くの看板スペース空きあったよね
+ 
+ 1.5.2→1.6.4(バニラ)
+ 2014-08-12 17:31:33 [INFO] Starting minecraft server version 1.6.4
+ 
+ 砂利口駅、出口ができる
+ 
+ 2014-08-17 21:14:11 [INFO] &lt;XYZ_32&gt; この駅の地上出口作ったら絶望的なアレ
+ 2014-08-17 21:14:13 [INFO] /119.230.184.8:60811 lost connection
+ 2014-08-17 21:14:14 [SEVERE] Reached end of stream for /119.230.184.8
+ 2014-08-17 21:14:21 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:14:35 [INFO] &lt;kassi0123&gt; ＞本農線終点＜
+ 2014-08-17 21:14:55 [INFO] &lt;XYZ_32&gt; その距離実に4m
+ 2014-08-17 21:14:55 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:15:12 [INFO] /119.230.184.8:64071 lost connection
+ 2014-08-17 21:15:14 [INFO] /119.230.184.8:64517 lost connection
+ 2014-08-17 21:15:17 [INFO] /119.230.184.8:63117 lost connection
+ 2014-08-17 21:15:18 [INFO] /119.230.184.8:61505 lost connection
+ 2014-08-17 21:15:19 [INFO] /119.230.184.8:63767 lost connection
+ 2014-08-17 21:15:20 [INFO] /119.230.184.8:62397 lost connection
+ 2014-08-17 21:15:21 [SEVERE] Reached end of stream for /119.230.184.8
+ 2014-08-17 21:15:22 [INFO] /119.230.184.8:59895 lost connection
+ 2014-08-17 21:15:25 [INFO] &lt;kassi0123&gt; 南ヶ丘駅周辺と鴫山駅周辺に駅できたら完全に本農線いらない子になるなｗ
+ 2014-08-17 21:15:31 [INFO] /119.230.184.8:62775 lost connection
+ 2014-08-17 21:15:39 [INFO] /119.230.184.8:60365 lost connection
+ 2014-08-17 21:15:47 [INFO] &lt;XYZ_32&gt; 実装したら砂利線が13駅になってカオス
+ 2014-08-17 21:15:48 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:16:38 [INFO] &lt;kassi0123&gt; あの図が大幅に更新する必要があるなｗ
+ 2014-08-17 21:16:53 [INFO] &lt;XYZ_32&gt; 音符ブロック密集地帯は砂利町なのか農場東地域なのか
+ 2014-08-17 21:16:54 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:17:02 [INFO] &lt;kassi0123&gt; 砂利町でいいんじゃね
+ 2014-08-17 21:17:16 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:18:25 [INFO] &lt;kassi0123&gt; そろそろ西町の鉄道以外の路線の会社名決めるか
+ 2014-08-17 21:18:29 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:18:42 [INFO] &lt;XYZ_32&gt; 砂利線はBLUって決まってるねん
+ 2014-08-17 21:18:42 [INFO] &lt;XYZ_32&gt; .
+ 2014-08-17 21:19:01 [INFO] &lt;XYZ_32&gt; 平茸線関係も会社名があるはず
+ 2014-08-17 21:19:04 [INFO] &lt;kassi0123&gt; にしても本農線が競合しすぎ
+ 2014-08-17 21:19:08 [INFO] &lt;XYZ_32&gt; .
+ 
+ ティッシュマン初
+ 2014-08-29
+ 
+ 1.6.4バニラ→1.6.4 CraftBukkit
+ 2014-08-31 14:10:38 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R2.0-b2918jnks (MC: 1.6.4) (Implementing API version 1.6.4-R2.0)
+ 2014-08-31 14:10:38 [INFO] [MCBans] Loading MCBans v4.3.4
+ 
+ コンビニ
+ 2014-09-01 18:13:17 [INFO] &lt;Hirotaisou2012&gt; そういえばコンビニ完成した[m
+ 
+ BNS誕生の瞬間
+ 2014-09-14 17:20:24 [INFO] &lt;XYZ_32&gt; 第三案内所ができるよ[m
+ 2014-09-14 17:49:29 [INFO] &lt;XYZ_32&gt; というわけで砂利町案内所ができました[m
+ 
+ とまちー初入室
+ 2014-09-21 11:58:35 [INFO] mine_book000[/124.45.203.30:63267] logged in with entity id 5826403 at ([world] 112.5, 76.0, 259.5)
+ 
+ あるえむ氏初入室
+ 2014-09-30 22:00:02 [INFO] R_M_[/223.133.84.18:56410] logged in with entity id 7588560 at ([world] 696.1678749761919, 29.0, 156.9048250585155)
+ 
+ へのへの初入室
+ 2014-10-03 17:44:11 [INFO] _henoheno_[/121.84.161.171:57970] logged in with entity id 951902 at ([world_the_end] 25.86972132002378, 65.01057437564205, -35.12232921048792)
+ 
+ あふあふ 初入室
+ 2014-11-15 13:33:15 [INFO] afuafu55[/182.164.149.134:55251] logged in with entity id 5340698 at ([world] 114.5, 64.0, 256.5)
+ 
+ オムレツ 初入室
+ 2015/1/1
+ 
+ さすけ 初入室
+ 2015/1/17
+ 
+ おすし 初入室
+ 2015/1/29
+ 
+ タケヤリ 初入室
+ 2015/2/5
+ 
+ はんたー 初入室
+ 2015/4/1
+ 
+ じょじょ 初入室
+ 2015/4/5
+ 
+ くー 初入室
+ 2015/4/5

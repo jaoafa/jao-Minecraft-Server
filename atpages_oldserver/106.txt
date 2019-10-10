@@ -1,0 +1,221 @@
+// 
+// 2016/02/26「 、」を「，」に置き換え - mine_book000
+// 
+* 宣伝部 Season 3！&amp;size(40%){[SC:&quot;22910&quot;]}
+----
+#image(http://mc.4096.xyz/server/line.jpg)
+&gt;1行目:ONLINE/OFFLINE
+&gt;2行目:ONLINEなら前回サーバーが停止したときの時刻
+&gt;OFFLINEなら前回サーバーが起動した時刻
+&gt;3行目:ONLINEなら前回サーバーが起動した時刻からサーバーが停止したときの時刻までの差
+&gt;OFFLINEなら前回サーバーが停止した時刻からサーバーが起動したときの時刻までの差
+&gt;4行目:この画像を生成した時刻
+----
+7月新体制発表(2015/06/30 (火) 22:02:03)より同時に宣伝部再開しました。
+いかなる場合であっても，宣伝部のデータを改造する行為，無断で使用する行為は禁止します。
+
+** blogサービスについて
+blogサービスでは，新規ユーザーさんの登録をお待ちしています。
+[[このブログについて&gt;http://mc.4096.xyz/blog/このブログについて]]を熟読の上，ご連絡ください。
+** ToDo
+- [php] mysqlからmysqliへの全面移行(02/06,07の土日を予定)
+- [css] /server/へのcss適用(出来るだけ早め)
+- [php] function.phpへの移行(気が向いたら)
+** 目次
+#region(目次を見るには左側の+をクリック)
+#contents()
+#endregion
+** お知らせ
+&amp;color(blue){とくにないよ}
+*** 過去のお知らせ
+#region
+*** 2015/02/04 部員のことについて
+副部長のHirotaisou2012が相当お忙しそうなので部長のみで動きますよ
+本人の精神的なアレが戻ってきたら復帰すると思います
+*** 2015/02/03 アカウントサービスに機能追加
+アカウントサービスに「あなたのサーバー接続履歴」を見れる機能が付きました。
+PCAプラグインによってログイン時に保存され不審な接続，複数垢の処理等を行っています。
+もし不審な接続がありましたらご連絡下さい。ローカルipban等の処置を取る場合があります。
+*** 2015/12/22 blogサービス更新のお知らせ
+blogサービスで使用しているWordPressの最新バージョン，WordPress 4.4–jaに更新しました。
+*** 2015/12/16 サーバーメール機能仮/本登録処理追加のお知らせ
+本日01:50頃，サーバーメール機能に「仮/本登録処理」を組み込みました
+従来のメールアドレスを確認せず登録するのではなく，まずは仮登録として登録し，入力されたメールアドレスに送られたURLをクリックし，アカウントをアクティベートすることで本登録となる仕組みとしました。
+今までにメールアドレスを間違えてしまったなどのことがあり，この処理を追加しました。
+もし仮登録の段階でメールアドレスを誤ってしまった場合は「登録状態確認/配信解除」から解除が可能です。
+
+*** 2015/12/13 サーバーメール機能処理関係変更のお知らせ
+本日13:30頃，サーバーメール機能に「サーバー起動通知」「起動時間/停止時間通知」を追加しました。
+使用方法は[[アカウントサービス&gt;http://mc.4096.xyz/account/]]にログインしていただき，「サーバーメール」のリンクからどうぞ。
+
+*** 2015/11/16 アカウントサービス新機能追加のご案内
+本日18:00頃に新機能「サーバーメール」を追加しました。
+この機能はマイクラサーバーの停止を検知し，メールを送信する機能となっています。
+定期巡回を行っているため前後10分程の誤差が生じる場合がございます。
+予定ではサーバーの起動等の通知機能も付けてオンオフの設定が出来るようにしようかと思っています。
+使用方法は[[アカウントサービス&gt;http://mc.4096.xyz/account/]]にログインしていただき，「サーバーメール」のリンクからどうぞ。
+*** 2015/09/29 休止予定のお話
+会長の受験により2016/2月から2016/4月まで休止をする予定です。
+状態によっては時期が早まる可能性があります。ご了承ください。
+また，休止中はシステムは稼働させたままとなりますが内部システムの大幅変更等は行いません。
+&gt;？？？「副会長がいるのでゆっくりですが少しは進むかもしれないですよ。ええ。」
+ 休止しないかもってよ。
+*** 2015/08/23 人事異動
+人事異動(役職移動)をしました
+*** 2015/08/05 状況報告
+ブログ作り直している最中です
+ユーザー識別をuuidでやろうとしてMojangAPIでuuid→Playernameをしたら短時間で2アクセス以上は無理らしく。弾かれました
+javascriptで順に変換をしようかと思って計算してたらたった5記事で25秒
+お先真っ暗ですわ…
+&gt;追記 なんとかなりそうです
+
+*** 2015/08/01 進捗について + a
+進捗だめです
+&gt;追記 進捗を進歩って書いてるあたりやっぱりダメかもしれません
+
+- プラグイン
+#region(7/31迄プラグイン)
+AutoMessage 2.5.4
+WorldEdit 5.6.3
+unTp 2.1.1
+MotdManager 1.41-b20
+HawkEye 1.6.0
+ColoredSigns 2.0
+CrackShot 0.98.1
+Pinare 0.0.1-SNAPSHOT
+Minecart_speedplus 1.6.3
+Modifyworld 1.19.7
+Multiverse-Core 2.4-b527
+PermissionsEx 1.20.4
+ImageOnMap 2.7
+WorldGuard 5.9
+MCBans 4.3.4
+dynmap 2.2-SNAPSHOT-1110
+Lift 51
+WorldBorder 1.8.1
+Multiverse-Portals 2.4-b548
+LunaChat 2.7.1
+MineTweet_for_Plugin 1.46
+#endregion
+
+#region(8/01からのプラグイン)
+WorldEdit 5.6.3
+unTp 2.1.1
+MotdManager 1.41-b20
+HawkEye 1.6.0
+ColoredSigns 2.0
+CrackShot 0.98.1
+Pinare 0.0.1-SNAPSHOT
+Minecart_speedplus 1.6.3
+PermissionsEx 1.20.4
+Modifyworld 1.19.7
+ImageOnMap 2.7
+WorldGuard 5.9
+MCBans 4.3.4
+Lift 51
+dynmap 2.2-SNAPSHOT-1110
+WorldBorder 1.8.1
+LunaChat 2.7.1
+MineTweet_for_Plugin 1.46
+#endregion
+
+*** 2015/07/24 鯖ブログ改装のお知らせ
+宣伝部で運用している[[当サーバー非公式Blog&gt;http://minesever.kassi-hp.info/blog/]]を全面的に改装することが決定しました。
+宜しくお願いいたします
+#endregion
+
+** 過去実績
+- Project Aikotoba v2にてmine_book000がプラグインの作成，サーバーサイドのプログラム作成に貢献。Hirotaisou2012はデザインの作成に貢献
+
+** メンバー
+|CENTER:~スキン|CENTER:~プレイヤーID|CENTER:~役職  |CENTER:~Twitter|CENTER:~ツイキャス|CENTER:~Skype&amp;br()(クリックでSkypeアプリ起動)|CENTER:~Steam|CENTER:~役割|CENTER:~備考|
+|CENTER:&amp;image(https://minotar.net/helm/mine_book000,width=32,height=32)|CENTER:mine_book000|CENTER:部長|CENTER:[[@book000&gt;https://twitter.com/book000]]|[[@book000_kyasu&gt;http://twitcasting.tv/book000_kyasu]]|CENTER:[[ipad2ne(PC)&gt;http://minesever.kassi-hp.info/s.php?id=ipad2ne]]&amp;br()[[tomachi_2(端末)&gt;http://minesever.kassi-hp.info/s.php?id=tomachi_2]]&amp;br()[[tomachi_3(iPad，Webなど)&gt;http://minesever.kassi-hp.info/s.php?id=tomachi_3]]|CENTER:[[book000&gt;http://steamcommunity.com/id/book000/]]|CENTER:各サイト・ページの作成，管理|CENTER:暇人 割と短気|
+|CENTER:&amp;image(https://minotar.net/helm/Hirotaisou2012,width=32,height=32)|CENTER:Hirotaisou2012|CENTER:副部長|CENTER:[[@Hirotaisou2012&gt;http://twitter.com/Hirotaisou2012]]|[[@Hirotaisou2012&gt;http://twitcasting.tv/Hirotaisou2012]]|CENTER:[[hiratake73&gt;http://minesever.kassi-hp.info/s.php?id=hiratake73]]|CENTER:[[Hirotaisou2012&gt;http://steamcommunity.com/id/Hirotaisou2012]]|CENTER:各サイト・ページのデザイン|CENTER:かなり忙しそう|
+
+**minesever.kassi-hp.infoのメンテナンスについて
+#image(http://i.imgur.com/OaLdCVs.jpg,http://i.imgur.com/OaLdCVs.jpg,width=120,height=192)
+&gt;クリックで拡大
+上記のような画面が表示された場合，メンテナンスを行っています。
+
+
+
+** 宣伝部業務内容
+- [[サーバーHP作成&gt;http://minesever.kassi-hp.info/]]
+-- [[ルール&gt;http://minesever.kassi-hp.info/rule/]]
+-- [[コミュニティ&gt;http://minesever.kassi-hp.info/community/]]
+-- [[仕様&gt;http://minesever.kassi-hp.info/server-info/]]
+-- [[お問い合わせ&gt;http://goo.gl/forms/irZHe6f8qj]]
+- [[鯖ブログの作成&gt;http://minesever.kassi-hp.info/blog/]]
+- [[サーバー状況表示システム運営&gt;http://minesever.kassi-hp.info/server]]
+-- [[Players Page&gt;http://minesever.kassi-hp.info/server/players.php]]
+-- [[Old Players Page&gt;http://minesever.kassi-hp.info/server/oldplayers.php]]
+-- [[Plugins Page&gt;http://minesever.kassi-hp.info/server/plugins.php]]
+- [[サーバー国市町全体管理&gt;http://minesever.kassi-hp.info/community/]]
+- [[かっしー鯖ログイン機能作成・運営&gt;http://minesever.kassi-hp.info/account/]]
+-- コミュニティページ編集
+-- サーバーメール
+-- あなたのサーバー接続履歴
+-- アカウント削除
+- 新規ユーザの対応
+- SNS等を利用してサーバーの宣伝
+- ツイキャスでの配信
+- Web関連の運営・制作
+その他追加予定
+
+** 宣伝部参加応募について
+以下の募集要項にしたがって応募ください。
+
+少なくとも以下の1つ以上に合致している必要があります。
+- htmlが書ける・読める
+- cssが書ける・読める
+- javascriptが読める・書ける
+- phpが読める・書ける
+
+以下のことが出来れば大歓迎です。
+- MySQLが使える
+- 高度なシステム開発が出来る
+
+以下のことが守れる必要があります。
+- 人を嫌な気持ちにさせるようなことをしない
+- FTP・MySQLをむやみやたらに使用したり，ID,パスワードを許可なく他人に公開しない。
+- 宣伝部グループ内で話していることをむやみやたらに公言しない
+
+以下が既にある必要があります
+- かっしー鯖内で常連権限以上{Regular権限(WorldEditが使える権限)}があること
+- Twitterアカウントがあること
+- Skypeアカウントがあること
+- DropBoxアカウントがあること
+
+&gt;応募後は部長・副部長で判断後，試験を行う場合がございます。
+&gt;そんなに難しいことを聞くわけではないので気軽に応募お願いします！
+
+部長・副部長で話し合い厳正に判断し応募の合否を決定します。
+以上の要項に同意いただける方のみ応募ください。
+//- ああんのくせにああんああん  -- 44n  (2015-11-22 12:25:54)
+#comment(title_name=MinecraftID,title_msg=SkypeID・意気込みをお書きください。,nsize=10,size=50,vsize=3,disableurl)
+
+
+** Link
+[[当サーバー公式HP&gt;http://minesever.kassi-hp.info/]]
+[[当サーバー非公式Blog&gt;http://minesever.kassi-hp.info/blog/]]
+[[サーバー常連一覧(未公開)&gt;http://minesever.kassi-hp.info/user/]]
+[[サーバー状況&gt;http://minesever.kassi-hp.info/server/]]
+
+** その他
+- 自由に人数を増減できる権限などを会長と副会長は持つ
+- 新規ユーザの対応はスタッフ・モデレーターが優先とする
+- [[宣伝部と開発部の違い&gt;連絡先#id_6d6eb9f5]]
+
+** 退部方法
+Skypeの宣伝部グループから退出
+もしくは会長・副部長に問い合わせ
+
+** Season
+|SeasonCode(SC)|SeasonName|Period|
+|91017|Season1|2015/05/01〜2015/06/30|
+|51905|Season2|2015/07/01〜2015/11/30|
+|22910|Season3|2015/12/01〜|
+SeasonCodeは乱数5桁
+----
+&amp;color(green){&amp;update(j)更新。&amp;br()更新日時が1ヶ月以上前の場合情報が正確ではない場合があります。}
+Copyright© 2015 kassi-hp.tk Minecraft Server 宣伝部  All rights reserved.

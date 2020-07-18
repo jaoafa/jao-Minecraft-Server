@@ -1,5 +1,7 @@
 # jaoLicense (English ver)
 
+[Click here for Japanese version](https://github.com/jaoafa/jao-Minecraft-Server/blob/master/jaoLICENSE.md)
+
 Basically, it follows the copyright law in Japan.
 
 The following actions are prohibited.

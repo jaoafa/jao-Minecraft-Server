@@ -6,7 +6,7 @@ Basically, it follows the copyright law in Japan.
 
 The following actions are prohibited.
 
-- Use, copy, divert, change, distribute, merge, sell (Whether with or without consideration), publicly transmit this software, related document files (source code, etc.) and ideas without the explicit permission of the author (developer). 
+- Use, copy, divert, modify, use part or all of this software and related document files (source code, etc.), ideas, deliverables (jar, exe, etc.) without explicit permission from the author (developer). Distribution, merging, sales (whether paid or free of charge), and public transmission.
 - Defamation of the author (developer).
 - Extending explicit permission beyond the permitted scope.
 

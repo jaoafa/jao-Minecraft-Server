@@ -13,6 +13,8 @@ Scope:
     - 'Scope: All'
   'Minecraft':
     - 'Scope: Minecraft'
+  'Discord':
+    - 'Scope: Discord'
   'Web':
     - 'Scope: Web'
   'Other':

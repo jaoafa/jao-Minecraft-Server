@@ -7,3 +7,13 @@ Main:
     - '🚧Status: In Progress'
   '✅ 完了済み - Done / Closed':
     - '✅Status: Done'
+
+Scope:
+  'All':
+    - 'Scope: All'
+  'Minecraft':
+    - 'Scope: Minecraft'
+  'Web':
+    - 'Scope: Web'
+  'Other':
+    - 'Scope: Other'

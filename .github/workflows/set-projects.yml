@@ -23,3 +23,9 @@ jobs:
       with:
         project: 'https://github.com/jaoafa/jao-Minecraft-Server/projects/1'
         column_name: '❓ 優先度未振り分け - Needs triage'
+
+    - name: Scope Project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      with:
+        project: 'https://github.com/jaoafa/jao-Minecraft-Server/projects/2'
+        column_name: '❓ 未分類'

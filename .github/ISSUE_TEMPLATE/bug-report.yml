@@ -8,6 +8,7 @@ body:
       jao Minecraft Server の Web サイト([`jaoafa/jaoweb`](https://github.com/jaoafa/jaoweb))、MyMaid4([`jaoafa/MyMaid4`](https://github.com/jaoafa/MyMaid4)) および Javajaotan2([`jaoafa/Javajaotan2`](https://github.com/jaoafa/Javajaotan2)) の不具合報告や新機能の提案は各リポジトリの Issue にてお願いします。
       Issue の提出先が間違っていても、メンテナーが移動しますのでご安心ください。
 - type: textarea
+  id: bug-description
   attributes:
     label: 不具合の説明
     description: 不具合の内容を明確・簡潔に説明してください
@@ -15,6 +16,7 @@ body:
   validations:
     required: true
 - type: textarea
+  id: steps-to-reproduce
   attributes:
     label: 再現手順
     description: |
@@ -27,6 +29,7 @@ body:
   validations:
     required: true
 - type: textarea
+  id: screenshots
   attributes:
     label: スクリーンショット
     description: エラーメッセージなどが表示されていたり、状況が分かりやすい場合はスクリーンショット・エラーログなどを添付してください。ファイルのドラックアンドドロップで添付できます。
@@ -34,6 +37,7 @@ body:
   validations:
     required: false
 - type: checkboxes
+  id: check-list
   attributes:
     label: チェックリスト
     description: |
@@ -43,6 +47,7 @@ body:
       - label: 既に修正されたバグではありません
         required: true
 - type: textarea
+  id: additional-info
   attributes:
     label: 追加情報
     description: 何か追加情報がある場合は記載してください。

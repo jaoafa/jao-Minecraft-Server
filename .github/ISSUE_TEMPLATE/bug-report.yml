@@ -1,7 +1,11 @@
-name: 不具合報告 - Bug report
+name: "[フォーム版] 不具合報告 - Bug report"
 description: 不具合を見つけた場合は、このテンプレートを使用してください。
 labels: ["\U0001F41Bbug"]
 body:
+- type: markdown
+  attributes:
+    value: |
+      このフォームが上手く使えなかったら
 - type: markdown
   attributes:
     value: |

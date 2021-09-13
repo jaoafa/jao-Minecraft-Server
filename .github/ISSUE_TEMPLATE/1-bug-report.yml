@@ -5,7 +5,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      このフォームが上手く使えなかったら
+      このフォームが上手く利用できない場合はテキスト版をお使いください
 - type: markdown
   attributes:
     value: |
